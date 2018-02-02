@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/practice-collection/set/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practice-collection/list/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practice-collection/map/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practice-generics/generice-method/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practice-generics/generice-class/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
