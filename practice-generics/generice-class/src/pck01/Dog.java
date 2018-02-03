@@ -1,4 +1,4 @@
-
+package pck01;
 
 public class Dog {
 

@@ -8,8 +8,10 @@
       <sourceFolder url="file://$MODULE_DIR$/practice-collection/map/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practice-generics/generice-method/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/practice-generics/generice-class/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/practice-interface/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="commons-lang3-3.1" level="project" />
   </component>
 </module>
