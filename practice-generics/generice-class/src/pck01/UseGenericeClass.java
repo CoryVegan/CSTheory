@@ -1,3 +1,5 @@
+package pck01;
+
 import java.util.Iterator;
 
 public class UseGenericeClass<T> {
