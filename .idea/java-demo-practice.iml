@@ -3,13 +3,16 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/practice-collection/set/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/practice-collection/list/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/practice-collection/map/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/practice-generics/generice-method/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/practice-generics/generice-class/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/practice-interface/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/practice-annotation/annotation-custom/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collection/set/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collection/list/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collection/map/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generics/generice-method/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/generics/generice-class/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSE/interface/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/annotation/annotation-custom/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSE/test/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaSE/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JavaEE/Servlet" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
