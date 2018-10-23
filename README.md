@@ -1,2 +1,3 @@
-# javase-practice
-It's my codes during the java practicing from 2018-1-20
+# Dolphin
+
+The Learning Routines Of JavaSE And JavaEE.
