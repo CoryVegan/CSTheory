@@ -19,8 +19,20 @@
 - [SQL的执行原理和优化原理](https://github.com/Lvsi-China/SmaugSQL)
 - [非关系型数据库系统的基础理论](https://github.com/Lvsi-China/CSTheory/blob/master/docs/nosql.md)
 - [数据库系统集群的基础理论和架构](https://github.com/Lvsi-China/Sherk/blob/master/docs/README.chapter3.md)
-- [分布式文件存储系统的基础理论](https://github.com/Lvsi-China/SauronDFS/blob/master/docs/
-README.chapter2.md)
+- [分布式文件存储系统的基础理论](https://github.com/Lvsi-China/SauronDFS/blob/master/docs/README.chapter2.md)
 
 
 ## 编程语言
+
+### 1. Go
+	
+	- [关于 Goroutine]()
+	- [关于 Channel]()
+
+### 2. PHP
+	
+	- [yield 关键 ? 协程 ?]() 
+
+### 3. JavaScript
+
+	- [单线程 ? 事件循环 ? 异步处理 ?]()
