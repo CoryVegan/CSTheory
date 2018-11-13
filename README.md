@@ -13,6 +13,7 @@
 ## 计算机组成原理
 - [虚拟存储器的基础理论](https://github.com/Lvsi-China/VirtualMemory)
 
+## 计算机网络
 
 ## 数据库系统
 - [关系型数据库系统的基础理论](https://github.com/Lvsi-China/Sherk/blob/master/docs/README.chapter3.md)
@@ -42,7 +43,7 @@
 
 - #### 消息通信
     - [事件驱动模型（Event-driven）]()
-    - [事件循环与异步处理]
+    - [事件循环与异步处理]()
     - [队列系统与异步处理（Queue and ）]()
 
 - #### 并发模型
@@ -72,9 +73,11 @@
 	
 - [yield 关键 ? 协程 ?]() 
 - [反射及其重要应用]()
+- [PHP 中的闭包]()
 
 ### 3. JavaScript
 
+- [理解 js 闭包]()
 - [单线程 ? 永不阻塞 ? 事件循环 ? 异步处理 ?]()
 
 - [关于 MVVM 的介绍讲解]()
