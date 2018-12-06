@@ -5,18 +5,16 @@
 
 > ### 不断更新中( updating ) ...
 
-<br>
-
-## 介绍（Introduction）
+# 介绍（Introduction）
 记录并学习计算机科学的相关理论
 
 
-## 数据结构与算法
+## (1) 数据结构与算法
 
 请查看 [深入于心的数据结构和算法( Deep in the Heart of Data Structures And Algorithms )](https://github.com/Lvsi-China/Algorithm)
 
 
-## 计算机组成原理
+## (2) 计算机组成原理
 ### 1. 数制系统
 
 ### 2. 存储系统
@@ -47,9 +45,9 @@
 - [I/O方式的介绍 - 程序查询、程序中断、DMA、通道]()
 
 
-## 计算机网络
+## (3) 计算机网络
 
-## 数据库系统
+## (4) 数据库系统
 - [关系型数据库系统的基础理论](https://github.com/Lvsi-China/Sherk/blob/master/docs/README.chapter3.md)
 - [SQL的执行原理和优化原理](https://github.com/Lvsi-China/SmaugSQL)
 - [非关系型数据库系统的基础理论](https://github.com/Lvsi-China/CSTheory/blob/master/docs/nosql.md)
@@ -57,7 +55,7 @@
 - [分布式文件存储系统的基础理论](https://github.com/Lvsi-China/SauronDFS/blob/master/docs/README.chapter2.md)
 
 
-## 项目工程
+## (5) 工程开发
 
 ### 1. 设计模式
 
@@ -95,14 +93,14 @@
 
 <br><br>
 
-## 并发原理底层探究
+## (6) 并发原理底层探究
 
 - [竞争]()
 - [原子操作]()
 - [信号量]()
 - [锁机制]()
 
-## 编程语言
+## (7) 编程语言
 
 ### 1. Go
     
