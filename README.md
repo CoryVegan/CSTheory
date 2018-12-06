@@ -1,9 +1,8 @@
 # CSTheory
 计算机科学理论
 
-<br>
-
 > ### 不断更新中( updating ) ...
+
 
 # 介绍（Introduction）
 记录并学习计算机科学的相关理论
