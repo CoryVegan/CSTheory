@@ -70,8 +70,18 @@
 - [数据库系统集群的基础理论和架构](https://github.com/Lvsi-China/Sherk/blob/master/docs/README.chapter3.md)
 - [分布式文件存储系统的基础理论](https://github.com/Lvsi-China/SauronDFS/blob/master/docs/README.chapter2.md)
 
+### (5) 操作系统
 
-### (5) 工程开发
+### (6) Linux
+
+### (7) 并发探究
+
+- [竞争]()
+- [原子操作]()
+- [信号量]()
+- [锁机制]()
+
+### (8) 工程开发
 
 #### 1. 设计模式
 
@@ -107,27 +117,28 @@
     - [同步 & 异步]()
     - [阻塞 & 非阻塞]()
 
+###(9) 编程语言
 
-### (6) 并发探究
+##### Assembly
 
-- [竞争]()
-- [原子操作]()
-- [信号量]()
-- [锁机制]()
+##### C Language
 
-###(7) 编程语言
+#### 3. Java
 
-#### 1. Go
+#### 4. Go
     
 - [关于 Goroutine]()
 - [了解 Goroutine调度器]()
 - [深入理解 Channel 的原理]()
 
-#### 2. PHP
+#### 5. PHP
     
 - [yield 关键 ? 协程 ?]() 
 - [反射及其重要应用]()
 - [PHP 中的闭包]()
+
+#### 4. NodeJS
+
 
 #### 3. JavaScript
 
@@ -150,8 +161,6 @@
     - [React的使用]()
     - [使用并理解 Reacte-Router]()
     - [使用并理解 Reacte-Redux]()
-    
 
-#### 4. NodeJS
 
 ### 杂感
