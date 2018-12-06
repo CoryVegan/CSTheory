@@ -2,6 +2,8 @@
 
 我的技术博客：计算机科学理论（My Technology Blog：The Theories of Computer Science ）
 
+<br>
+
 ## ♨ 介绍
 
 没错，这个仓库就是我唯一使用且永久更新的技术博客。没有人规定博客必须是自己搭建的网站，而且个人觉得用github仓库更方便一些，于是就使用它作为自己的技术沉淀和不定时的总结了。
@@ -17,6 +19,8 @@
 > 另外推荐：我的 [Akama](https://github.com/Lvsi-China/Akama) 项目组织, 专门翻译国外计算机领域相关文章资料，欢迎有意者加入！<br>
 > 仓库地址 : [Akama](https://github.com/Lvsi-China/Akama)<br>
 > 官方网站 : [lvsi-china.github.io](https://lvsi-china.github.io/)
+
+<br>
 
 ## ✍ 博客文章分类
 
