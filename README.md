@@ -1,6 +1,5 @@
 # CSTheory
-
-我的技术博客：计算机科学理论（My Technology Blog：The Theories of Computer Science ). [前往博客](https://lvsi-china.github.io/CSTheory/)
+Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Science ）. [前往博客](https://lvsi-china.github.io/CSTheory/)
 
 <br>
 
