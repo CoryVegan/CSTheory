@@ -1,12 +1,15 @@
 # CSTheory
 
-我的技术博客：计算机科学理论（My Technology Blog：The Theories of Computer Science ）
+我的技术博客：计算机科学理论（My Technology Blog：The Theories of Computer Science ). [前往博客](https://lvsi-china.github.io/CSTheory/)
 
 <br>
 
 ## ♨ 介绍
 
-没错，这个仓库就是我唯一使用且永久更新的技术博客。没有人规定博客必须是自己搭建的网站，而且个人觉得用github仓库更方便一些，于是就使用它作为自己的技术沉淀和不定时的总结了。
+没错，这个仓库就是我唯一使用且永久更新的技术博客。个人觉得用github仓库更方便一些，于是就使用它作为自己的技术沉淀和不定时的总结了。
+
+[博客地址](https://lvsi-china.github.io/CSTheory/)
+[博客 github 仓库地址](https://github.com/Lvsi-China/CSTheory)
 
 ```
 由于我以前习惯使用某云存储笔记作为技术知识存储( 简单方便 )，
