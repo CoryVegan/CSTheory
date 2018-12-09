@@ -28,7 +28,7 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 ### (1) 数据结构与算法
 
-请查看 [深入于心的数据结构和算法( Deep in the Heart of Data Structures And Algorithms )](https://github.com/Lvsi-China/Algorithm)
+请查看 [深入于心的数据结构和算法( Deep in the Heart of Data Structures And Algorithms )](https://lvsi-china.github.io/AlgorithmRise/)
 
 
 ### (2) 计算机组成原理
