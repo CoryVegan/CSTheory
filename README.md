@@ -158,11 +158,11 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
     - [虚拟 DOM 技术]()
 
-        #### 3.1 React框架
+        - #### 3.1 React框架
          
-        - [React的使用]()
-        - [使用并理解 Reacte-Router]()
-        - [使用并理解 Reacte-Redux]()
+            - [React的使用]()
+            - [使用并理解 Reacte-Router]()
+            - [使用并理解 Reacte-Redux]()
 
 
 ### 杂感
