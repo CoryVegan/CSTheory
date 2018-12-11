@@ -197,8 +197,12 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
     - [到底有没有锁？]()
 
 - #### 5. PHP
-        
+      
+    - [Composer构建项目的基本步骤]()
+    - [ReactPHP 让PHP变得像NodeJS一样]() <!--https://github.com/reactphp-->
+	- [讲解 ReactPHP 的3大特性：事件驱动+异步执行+非阻塞 IO]() <!--可以查看我写的源码阅读-->
     - [yield 关键 ? 协程 ?]() 
+    - [从CGI到Fast-CGI]() <!-- PHP-FPM 是 PHP 针对 FastCGI 协议的具体实现 -->
     - [反射及其重要应用]()
     - [PHP 中的闭包]()
     - [守护进程及PHP如何使用守护进程]()
