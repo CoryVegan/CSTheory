@@ -70,7 +70,6 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 - [SQL的执行原理和优化原理](https://github.com/Lvsi-China/SmaugSQL)
 - [非关系型数据库系统的基础理论](https://github.com/Lvsi-China/CSTheory/blob/master/docs/nosql.md)
 - [数据库系统集群的基础理论和架构](https://github.com/Lvsi-China/Sherk/blob/master/docs/README.chapter3.md)
-- [分布式文件存储系统的基础理论](https://github.com/Lvsi-China/SauronDFS/blob/master/docs/README.chapter2.md)
 
 ### (5) 操作系统
 
@@ -83,7 +82,55 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 - [信号量]()
 - [锁机制]()
 
-### (8) 工程开发
+- ##### 并发模型
+    - [多进程]()
+    - [多线程]()
+    - [协程]()
+    - [CSP 模型]()
+    - [Actor 模型]()
+    - [生产者消费者模型（Producer-Consumer）]()
+
+
+### (8) IO处理
+
+	
+- #### 介绍
+	
+	
+	<!--  https://www.cnblogs.com/lixiang1013/p/7105404.html
+	（1）每收到一个请求，创建一个新的进程，来处理该请求；
+	（2）每收到一个请求，创建一个新的线程，来处理该请求；
+	（3）每收到一个请求，放入一个事件列表，让主进程通过非阻塞I/O方式来处理请求
+	上面的几种方式，各有千秋，
+	第（1）中方法，由于创建新的进程的开销比较大，所以，会导致服务器性能比较差,但实现比较简单。
+	第（2）种方式，由于要涉及到线程的同步，有可能会面临死锁等问题。
+	第（3）种方式，在写应用程序代码时，逻辑比前面两种都复杂。
+	综合考虑各方面因素，一般普遍认为第（3）种方式是大多数网络服务器采用的方式 -->
+	
+
+	<!--之所以先经过内存IO，是因为先从缓存中查找数据，缓存中没数据时才从磁盘中获取-->
+	- [客户端向服务器请求数据，会按顺序经过这3个IO：网络IO -> 内存IO ->磁盘IO ]()
+	- [Redis为什么一般比Mysql速度块]() <!-- 因为内存IO是远大于磁盘IO的 -->
+	- [(转)网络IO和磁盘IO效率问题？](https://www.zhihu.com/question/47589908)
+    - [IO处理中的同步和异步]() <!--同步和异步是属于消息通讯部分的技术,显然IO肯定需要用到这种技术-->
+    - [IO处理中的阻塞和非阻塞]()
+    - [服务器常用的IO模型]() <!--一个请求一个进程(PHP)，一个请求一个线程(Java)，一个请求一个进程一个线程，使用事件循环方式(NodeJS)-->
+
+
+- #### 1. 网络IO
+
+	- [关于 libevent 的介绍讲解]()
+	- [(转) 知乎：libevent的异步怎么理解？](https://www.zhihu.com/question/23429855)<!-- 这个要放到上面文章中的参考中，我现在写这只是为了防止忘记 -->
+	- [几种网络IO模型]()
+	- [(转) Unix 网络 IO 模型: 同步异步, 傻傻分不清楚?](https://segmentfault.com/a/1190000007355931)
+
+- #### 2. 磁盘IO
+
+
+- #### 3. 内存IO
+
+
+### (9) 工程开发问题
 
 #### 1. 设计模式
 
@@ -97,33 +144,48 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
     - [控制反转 & 控制反转容器 （IOC & IOC Container）]()
 
 - ##### 流程控制
+
     - [异常捕获（Catch Exception）]()
     - [钩子编程（Hooking）]()
     - [管道模型（Pipeline）]()
 
-- ##### 消息通信
+- ##### 消息通讯
+
+	- [同步和异步]()<!--同步和异步是属于消息通讯部分的技术-->
+    - [异步的实现方法]()
+    - [(转)阮一峰：Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
+    - [(转)JS 异步的实现](https://segmentfault.com/a/1190000012362556)
     - [事件驱动模型（Event-driven）]()
     - [事件循环与异步处理]()
-    - [队列系统与异步处理（Queue and ）]()
-    - [消息广播（Broadcasting）]
+    - [队列系统与异步处理]()
+    - [消息广播（Broadcasting）]()
+    - [发布/订阅]()
 
-- ##### 并发模型
-    - [多进程]()
-    - [多线程]()
-    - [协程]()
-    - [CSP 模型]()
-    - [Actor 模型]()
-    - [生产者消费者模型（Producer-Consumer）]()
+#### 3. 网络编程
 
-- ##### I/O操作
-    - [同步 & 异步]()
-    - [阻塞 & 非阻塞]()
 
-### (9) 编程语言
+#### 4. 程序的编译安装
+
+- [关于 GCC & G++ ]()
+- [GNU平台下的编译和安装]()
+
+#### 5. Web技术
+
+- [谈谈 Comet 技术]()
+
+#### 6. 爬虫技术
+
+- [关于爬虫的原理]() 
+- [(转) 知乎：PHP, Python, Node.js 哪个比较适合写爬虫？]()
+
+### (10) 编程语言
 
 - #### 1. Assembly
 
 - #### 2. C Language
+
+	- [关于内存池技术]()
+	- [(转)知乎：如何设计内存池？](https://www.zhihu.com/question/25527491)
 
 - #### 3. Java
 
@@ -132,21 +194,33 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
     - [关于 Goroutine]()
     - [了解 Goroutine调度器]()
     - [深入理解 Channel 的原理]()
+    - [到底有没有锁？]()
 
 - #### 5. PHP
         
     - [yield 关键 ? 协程 ?]() 
     - [反射及其重要应用]()
     - [PHP 中的闭包]()
+    - [守护进程及PHP如何使用守护进程]()
+    - [PHP 使用 while(1) 和 crontab 的区别？]()
+    - [(转)定时任务使用php自循环和crontab的区别？](https://www.zhihu.com/question/270451253/answer/354959863)
+    - [phpDaemon开源项目介绍]()
+    - [PHP 扩展开发]()
+    - [使用Zephir做PHP扩展开发]()
+    - [此React非彼React，React的使用心得 (Event-driven, non-blocking I/O with PHP)]()
 
-- #### 4. NodeJS
+- #### 6. NodeJS
 
 
-- #### 3. JavaScript
+- #### 7. JavaScript
 
     - [深刻认识 JS 的自执行函数环境]()
 
     - [理解 js 闭包]()
+
+    - [JavaScript引擎](https://segmentfault.com/a/1190000012362556#articleHeader4)
+
+    - [关于setTimeout()和异步]()
 
     - [单线程 ? 永不阻塞 ? 事件循环 ? 异步处理 ?]()
 
@@ -156,7 +230,11 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
     - [了解 Flux 架构（单向数据流）]()
 
+    - [关于高效操作DOM]()
+
     - [虚拟 DOM 技术]()
+
+    - [关于 Typescript 和 CoffeeScript]()
 
         - #### 3.1 React框架
          
@@ -164,5 +242,26 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
             - [使用并理解 Reacte-Router]()
             - [使用并理解 Reacte-Redux]()
 
+- #### 8. Scala
+
+
+
+### (11) 服务器技术
+    
+- [CDN技术的原理介绍]()
+
+
+### (12) 分布式
+
+- [谈到分布式，我们在想什么？]()
+- [分布式文件存储系统的基础理论](https://github.com/Lvsi-China/SauronDFS/blob/master/docs/README.chapter2.md)
+
+
+### (13) 搜索引擎
+
+### (14) 大数据与云计算
+
 
 ### 杂感
+
+
