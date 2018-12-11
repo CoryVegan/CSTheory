@@ -62,6 +62,10 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
     - [关于I/O接口（I/O控制器）]()
     - [I/O方式的介绍 - 程序查询、程序中断、DMA、通道]()
 
+- #### 问题总结
+
+    - [编程语言/计算机中的 Timer 和 Tick 是指什么？]()
+
 
 ### (3) 计算机网络
 
@@ -119,7 +123,8 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 - #### 1. 网络IO
 
-	- [关于 libevent 的介绍讲解]()
+    <!-- 见PHP的 reactphp/event-loop , reactphp/event-loop 使用到了 libevent -->
+	- [关于 libevent 的介绍讲解]()<!--连PHP都有 libevent https://pecl.php.net/package/libevent -->
 	- [(转) 知乎：libevent的异步怎么理解？](https://www.zhihu.com/question/23429855)<!-- 这个要放到上面文章中的参考中，我现在写这只是为了防止忘记 -->
 	- [几种网络IO模型]()
 	- [(转) Unix 网络 IO 模型: 同步异步, 傻傻分不清楚?](https://segmentfault.com/a/1190000007355931)
@@ -177,6 +182,12 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 - [关于爬虫的原理]() 
 - [(转) 知乎：PHP, Python, Node.js 哪个比较适合写爬虫？]()
+
+
+#### 问题总结
+
+- [编程语言/计算机中的 Timer 和 Tick 是指什么？]()
+
 
 ### (10) 编程语言
 
