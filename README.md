@@ -186,8 +186,10 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 #### 问题总结
 
-- [编程语言/计算机中的 Timer 和 Tick 是指什么？]()
-- [github修改密码后，SourceTree无法推送？如何在推送时不用每次都输入密码？](./9-%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%8F%91/%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/2018/github%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81%E5%90%8E%EF%BC%8CSourceTree%E6%97%A0%E6%B3%95%E6%8E%A8%E9%80%81%EF%BC%9F%E5%A6%82%E4%BD%95%E5%9C%A8%E6%8E%A8%E9%80%81%E6%97%B6%E4%B8%8D%E7%94%A8%E6%AF%8F%E6%AC%A1%E9%83%BD%E8%BE%93%E5%85%A5%E5%AF%86%E7%A0%81.md)
+- ##### 2018
+
+    - [编程语言/计算机中的 Timer 和 Tick 是指什么？]()
+    - 12月13日：[github修改密码后，SourceTree无法推送？如何在推送时不用每次都输入密码？](https://github.com/Lvsi-China/CSTheory/blob/master/9-工程开发/问题总结/2018/12-13.md)
 
 ### 10-编程语言
 
