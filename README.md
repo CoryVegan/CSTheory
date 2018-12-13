@@ -121,7 +121,7 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
     - [服务器常用的IO模型]() <!--一个请求一个进程(PHP)，一个请求一个线程(Java)，一个请求一个进程一个线程，使用事件循环方式(NodeJS)-->
 
 
-- #### 1. 网络IO
+- #### 网络IO
 
     <!-- 见PHP的 reactphp/event-loop , reactphp/event-loop 使用到了 libevent -->
 	- [关于 libevent 的介绍讲解]()<!--连PHP都有 libevent https://pecl.php.net/package/libevent -->
@@ -129,10 +129,10 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 	- [几种网络IO模型]()
 	- [(转) Unix 网络 IO 模型: 同步异步, 傻傻分不清楚?](https://segmentfault.com/a/1190000007355931)
 
-- #### 2. 磁盘IO
+- #### 磁盘IO
 
 
-- #### 3. 内存IO
+- #### 内存IO
 
 
 ### (9) 工程开发问题
@@ -187,27 +187,27 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 #### 问题总结
 
 - [编程语言/计算机中的 Timer 和 Tick 是指什么？]()
-
+- [github修改密码后，SourceTree无法推送？如何在推送时不用每次都输入密码？]()
 
 ### (10) 编程语言
 
-- #### 1. Assembly
+- #### Assembly
 
-- #### 2. C Language
+- #### C Language
 
 	- [关于内存池技术]()
 	- [(转)知乎：如何设计内存池？](https://www.zhihu.com/question/25527491)
 
-- #### 3. Java
+- #### Java
 
-- #### 4. Go
+- #### Go
         
     - [关于 Goroutine]()
     - [了解 Goroutine调度器]()
     - [深入理解 Channel 的原理]()
     - [到底有没有锁？]()
 
-- #### 5. PHP
+- #### PHP
       
     - [Composer构建项目的基本步骤]()
     - [ReactPHP 让PHP变得像NodeJS一样]() <!--https://github.com/reactphp-->
@@ -224,10 +224,10 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
     - [使用Zephir做PHP扩展开发]()
     - [此React非彼React，React的使用心得 (Event-driven, non-blocking I/O with PHP)]()
 
-- #### 6. NodeJS
+- #### NodeJS
 
 
-- #### 7. JavaScript
+- #### JavaScript
 
     - [深刻认识 JS 的自执行函数环境]()
 
@@ -251,13 +251,13 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
     - [关于 Typescript 和 CoffeeScript]()
 
-        - #### 3.1 React框架
-         
-            - [React的使用]()
-            - [使用并理解 Reacte-Router]()
-            - [使用并理解 Reacte-Redux]()
+    - #### React框架
+     
+        - [React的使用]()
+        - [使用并理解 Reacte-Router]()
+        - [使用并理解 Reacte-Redux]()
 
-- #### 8. Scala
+- #### Scala
 
 
 
