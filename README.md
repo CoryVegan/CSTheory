@@ -26,12 +26,12 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 ## ✍ 博客文章分类
 
-### (1) 数据结构与算法
+### 1-数据结构与算法
 
 请查看 [深入于心的数据结构和算法( Deep in the Heart of Data Structures And Algorithms )](https://lvsi-china.github.io/AlgorithmRise/)
 
 
-### (2) 计算机组成原理
+### 2-计算机组成原理
 
 - #### 1. 数制系统
 
@@ -67,19 +67,19 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
     - [编程语言/计算机中的 Timer 和 Tick 是指什么？]()
 
 
-### (3) 计算机网络
+### 3-计算机网络
 
-### (4) 数据库系统
+### 4-数据库系统
 - [关系型数据库系统的基础理论](https://github.com/Lvsi-China/Sherk/blob/master/docs/README.chapter3.md)
 - [SQL的执行原理和优化原理](https://github.com/Lvsi-China/SmaugSQL)
 - [非关系型数据库系统的基础理论](https://github.com/Lvsi-China/CSTheory/blob/master/docs/nosql.md)
 - [数据库系统集群的基础理论和架构](https://github.com/Lvsi-China/Sherk/blob/master/docs/README.chapter3.md)
 
-### (5) 操作系统
+### 5-操作系统
 
-### (6) Linux
+### 6-Linux
 
-### (7) 并发探究
+### 7-并发探究
 
 - [竞争]()
 - [原子操作]()
@@ -95,7 +95,7 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
     - [生产者消费者模型（Producer-Consumer）]()
 
 
-### (8) IO处理
+### 8-IO处理
 
 	
 - #### 介绍
@@ -135,7 +135,7 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 - #### 内存IO
 
 
-### (9) 工程开发问题
+### 9-工程开发问题
 
 #### 设计模式
 
@@ -187,9 +187,9 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 #### 问题总结
 
 - [编程语言/计算机中的 Timer 和 Tick 是指什么？]()
-- [github修改密码后，SourceTree无法推送？如何在推送时不用每次都输入密码？](./(9)%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%8F%91/%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/2018/github%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81%E5%90%8E%EF%BC%8CSourceTree%E6%97%A0%E6%B3%95%E6%8E%A8%E9%80%81%EF%BC%9F%E5%A6%82%E4%BD%95%E5%9C%A8%E6%8E%A8%E9%80%81%E6%97%B6%E4%B8%8D%E7%94%A8%E6%AF%8F%E6%AC%A1%E9%83%BD%E8%BE%93%E5%85%A5%E5%AF%86%E7%A0%81.md)
+- [github修改密码后，SourceTree无法推送？如何在推送时不用每次都输入密码？](./9-%E5%B7%A5%E7%A8%8B%E5%BC%80%E5%8F%91/%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/2018/github%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81%E5%90%8E%EF%BC%8CSourceTree%E6%97%A0%E6%B3%95%E6%8E%A8%E9%80%81%EF%BC%9F%E5%A6%82%E4%BD%95%E5%9C%A8%E6%8E%A8%E9%80%81%E6%97%B6%E4%B8%8D%E7%94%A8%E6%AF%8F%E6%AC%A1%E9%83%BD%E8%BE%93%E5%85%A5%E5%AF%86%E7%A0%81.md)
 
-### (10) 编程语言
+### 10-编程语言
 
 - #### Assembly
 
@@ -249,20 +249,20 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 
 
-### (11) 服务器技术
+### 11-服务器技术
     
 - [CDN技术的原理介绍]()
 
 
-### (12) 分布式
+### 12-分布式
 
 - [谈到分布式，我们在想什么？]()
 - [分布式文件存储系统的基础理论](https://github.com/Lvsi-China/SauronDFS/blob/master/docs/README.chapter2.md)
 
 
-### (13) 搜索引擎
+### 13-搜索引擎
 
-### (14) 大数据
+### 14-大数据
 
 
 ### 杂感
