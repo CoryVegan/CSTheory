@@ -137,9 +137,9 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 ### (9) 工程开发问题
 
-#### 1. 设计模式
+#### 设计模式
 
-#### 2. 程序设计模型
+#### 程序设计模型
 
 - ##### 依赖处理
     - [依赖注入（DI）]()
@@ -166,19 +166,19 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
     - [消息广播（Broadcasting）]()
     - [发布/订阅]()
 
-#### 3. 网络编程
+#### 网络编程
 
 
-#### 4. 程序的编译安装
+#### 程序的编译安装
 
 - [关于 GCC & G++ ]()
 - [GNU平台下的编译和安装]()
 
-#### 5. Web技术
+#### Web技术
 
 - [谈谈 Comet 技术]()
 
-#### 6. 爬虫技术
+#### 爬虫技术
 
 - [关于爬虫的原理]() 
 - [(转) 知乎：PHP, Python, Node.js 哪个比较适合写爬虫？]()
@@ -274,7 +274,7 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 ### (13) 搜索引擎
 
-### (14) 大数据与云计算
+### (14) 大数据
 
 
 ### 杂感
