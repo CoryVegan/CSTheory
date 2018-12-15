@@ -98,7 +98,6 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 8. ### IO处理
 
     - #### 介绍
-    	
         - [客户端向服务器请求数据，会按顺序经过这3个IO：网络IO -> 内存IO ->磁盘IO ]()
         - [Redis为什么一般比Mysql速度块]()
         - [(转)网络IO和磁盘IO效率问题？](https://www.zhihu.com/question/47589908)
@@ -108,7 +107,6 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 
     - #### 网络IO
-
     	- [关于 libevent 的介绍讲解]()
         - [(转) 知乎：libevent的异步怎么理解？](https://www.zhihu.com/question/23429855)
     	- [几种网络IO模型]()
@@ -134,13 +132,11 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
             - [控制反转 & 控制反转容器 （IOC & IOC Container）]()
 
         - ##### 流程控制
-
             - [异常捕获（Catch Exception）]()
             - [钩子编程（Hooking）]()
             - [管道模型（Pipeline）]()
 
         - ##### 消息通讯
-
         	- [同步和异步]()
             - [异步的实现方法]()
             - [(转)阮一峰：Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
