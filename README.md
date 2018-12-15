@@ -97,35 +97,22 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 8. ### IO处理
 
-    	
     - #### 介绍
     	
-    	
-    	<!--  https://www.cnblogs.com/lixiang1013/p/7105404.html
-    	（1）每收到一个请求，创建一个新的进程，来处理该请求；
-    	（2）每收到一个请求，创建一个新的线程，来处理该请求；
-    	（3）每收到一个请求，放入一个事件列表，让主进程通过非阻塞I/O方式来处理请求
-    	上面的几种方式，各有千秋，
-    	第（1）中方法，由于创建新的进程的开销比较大，所以，会导致服务器性能比较差,但实现比较简单。
-    	第（2）种方式，由于要涉及到线程的同步，有可能会面临死锁等问题。
-    	第（3）种方式，在写应用程序代码时，逻辑比前面两种都复杂。
-    	综合考虑各方面因素，一般普遍认为第（3）种方式是大多数网络服务器采用的方式 -->
-    	
-
-    	<!--之所以先经过内存IO，是因为先从缓存中查找数据，缓存中没数据时才从磁盘中获取-->
-    	- [客户端向服务器请求数据，会按顺序经过这3个IO：网络IO -> 内存IO ->磁盘IO ]()
-    	- [Redis为什么一般比Mysql速度块]() <!-- 因为内存IO是远大于磁盘IO的 -->
-    	- [(转)网络IO和磁盘IO效率问题？](https://www.zhihu.com/question/47589908)
-        - [IO处理中的同步和异步]() <!--同步和异步是属于消息通讯部分的技术,显然IO肯定需要用到这种技术-->
+        - [客户端向服务器请求数据，会按顺序经过这3个IO：网络IO -> 内存IO ->磁盘IO ]()
+        - [Redis为什么一般比Mysql速度块]()
+        - [(转)网络IO和磁盘IO效率问题？](https://www.zhihu.com/question/47589908)
+        - [IO处理中的同步和异步]()
         - [IO处理中的阻塞和非阻塞]()
-        - [服务器常用的IO模型]() <!--一个请求一个进程(PHP)，一个请求一个线程(Java)，一个请求一个进程一个线程，使用事件循环方式(NodeJS)-->
+        - [服务器常用的IO模型]() 
 
 
     - #### 网络IO
 
-        <!-- 见PHP的 reactphp/event-loop , reactphp/event-loop 使用到了 libevent -->
-    	- [关于 libevent 的介绍讲解]()<!--连PHP都有 libevent https://pecl.php.net/package/libevent -->
-    	- [(转) 知乎：libevent的异步怎么理解？](https://www.zhihu.com/question/23429855)<!-- 这个要放到上面文章中的参考中，我现在写这只是为了防止忘记 -->
+    	- [关于 libevent 的介绍讲解]()
+    	
+        - [(转) 知乎：libevent的异步怎么理解？](https://www.zhihu.com/question/23429855)
+
     	- [几种网络IO模型]()
     	- [(转) Unix 网络 IO 模型: 同步异步, 傻傻分不清楚?](https://segmentfault.com/a/1190000007355931)
 
@@ -156,7 +143,7 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
         - ##### 消息通讯
 
-        	- [同步和异步]()<!--同步和异步是属于消息通讯部分的技术-->
+        	- [同步和异步]()
             - [异步的实现方法]()
             - [(转)阮一峰：Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
             - [(转)JS 异步的实现](https://segmentfault.com/a/1190000012362556)
@@ -212,10 +199,10 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
     - #### PHP
           
         - [Composer构建项目的基本步骤]()
-        - [ReactPHP 让PHP变得像NodeJS一样]() <!--https://github.com/reactphp-->
-    	- [讲解 ReactPHP 的3大特性：事件驱动+异步执行+非阻塞 IO]() <!--可以查看我写的源码阅读-->
+        - [ReactPHP 让PHP变得像NodeJS一样]()
+    	- [讲解 ReactPHP 的3大特性：事件驱动+异步执行+非阻塞 IO]()
         - [yield 关键 ? 协程 ?]() 
-        - [从CGI到Fast-CGI]() <!-- PHP-FPM 是 PHP 针对 FastCGI 协议的具体实现 -->
+        - [从CGI到Fast-CGI]()
         - [反射及其重要应用]()
         - [PHP 中的闭包]()
         - [守护进程及PHP如何使用守护进程]()
