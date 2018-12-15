@@ -110,9 +110,7 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
     - #### 网络IO
 
     	- [关于 libevent 的介绍讲解]()
-    	
         - [(转) 知乎：libevent的异步怎么理解？](https://www.zhihu.com/question/23429855)
-
     	- [几种网络IO模型]()
     	- [(转) Unix 网络 IO 模型: 同步异步, 傻傻分不清楚?](https://segmentfault.com/a/1190000007355931)
 
