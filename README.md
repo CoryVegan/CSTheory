@@ -137,7 +137,7 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
             - [管道模型（Pipeline）]()
 
         - ##### 消息通讯
-        	- [同步和异步]()
+            - [同步和异步]()
             - [异步的实现方法]()
             - [(转)阮一峰：Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
             - [(转)JS 异步的实现](https://segmentfault.com/a/1190000012362556)
