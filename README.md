@@ -211,6 +211,7 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
             - [04-11：在 Homestead 中怎么配置 Redis？](./编程语言/PHP/Laravel/2018/04-11.md)
             - [02-28：实现 用户名或邮箱等 任意一个字段均可登录](./编程语言/PHP/Laravel/2018/02-28.md)
+            - [04-05：Laravel 的表单验证 , 如何做到验证并改变 ( 转换 ) 数据 ？( 使用中间件 )](./编程语言/PHP/Laravel/2018/04-05.md)
 
     - #### NodeJS
 
