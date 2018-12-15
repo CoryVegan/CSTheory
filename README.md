@@ -151,16 +151,13 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 
     - #### 程序的编译安装
-
         - [关于 GCC & G++ ]()
         - [GNU平台下的编译和安装]()
 
     - #### Web技术
-
         - [谈谈 Comet 技术]()
 
     - #### 爬虫技术
-
         - [关于爬虫的原理]() 
         - [(转) 知乎：PHP, Python, Node.js 哪个比较适合写爬虫？]()
 
@@ -168,7 +165,6 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
     - #### 问题总结
 
         - ##### 2018
-
             - [编程语言/计算机中的 Timer 和 Tick 是指什么？]()
             - 12月13日：[github修改密码后，SourceTree无法推送？如何在推送时不用每次都输入密码？](./工程开发/问题总结/2018/12-13.md)
 
@@ -184,14 +180,12 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
     - #### Java
 
     - #### Go
-            
         - [关于 Goroutine]()
         - [了解 Goroutine调度器]()
         - [深入理解 Channel 的原理]()
         - [到底有没有锁？]()
 
     - #### PHP
-          
         - [Composer构建项目的基本步骤]()
         - [ReactPHP 让PHP变得像NodeJS一样]()
     	- [讲解 ReactPHP 的3大特性：事件驱动+异步执行+非阻塞 IO]()
@@ -208,7 +202,6 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
         - [此React非彼React，React的使用心得 (Event-driven, non-blocking I/O with PHP)]()
 
         - #### Laravel框架
-
             - [04-11：在 Homestead 中怎么配置 Redis？](./编程语言/PHP/Laravel/2018/04-11.md)
             - [02-28：实现 用户名或邮箱等 任意一个字段均可登录](./编程语言/PHP/Laravel/2018/02-28.md)
             - [04-05：Laravel 的表单验证 , 如何做到验证并改变 ( 转换 ) 数据 ？( 使用中间件 )](./编程语言/PHP/Laravel/2018/04-05.md)
@@ -217,7 +210,6 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 
     - #### JavaScript
-
         - [深刻认识 JS 的自执行函数环境]()
         - [理解 js 闭包]()
         - [JavaScript引擎](https://segmentfault.com/a/1190000012362556#articleHeader4)
@@ -237,12 +229,10 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
     - #### Scala
 
 11. ### 服务器技术
-    
     - [CDN技术的原理介绍]()
 
 
 12. ### 分布式
-
     - [谈到分布式，我们在想什么？]()
     - [分布式文件存储系统的基础理论](https://github.com/Lvsi-China/SauronDFS/blob/master/docs/README.chapter2.md)
 
