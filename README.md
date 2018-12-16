@@ -207,8 +207,11 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
                 - [04-05：Laravel 的表单验证 , 如何做到验证并改变 ( 转换 ) 数据 ？( 使用中间件 )](./编程语言/PHP/Laravel/2018/04-05.md)
 
     - #### NodeJS
+        - [NodeJS目录结构参考-1](https://gist.github.com/Lvsi-China/6844decae4fbc3915506298be0d4dd15)
+        - [NodeJS目录结构参考-2](https://github.com/focusaurus/express_code_structure)
+        - [NodeJS目录结构参考-3](https://github.com/jifeng/node-app)
 
-
+        
     - #### JavaScript
         - [深刻认识 JS 的自执行函数环境]()
         - [理解 js 闭包]()
