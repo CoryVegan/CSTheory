@@ -10,11 +10,10 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 [博客地址](https://lvsi-china.github.io/CSTheory/)<br/>
 [博客 github 仓库地址](https://github.com/Lvsi-China/CSTheory)
 
-```
-由于我以前习惯使用某云存储笔记作为技术知识存储( 简单方便 )，
-但后期发现云笔记这种产品不太可靠，还是自己管理更放心。
-所以某段时间可能会大量的把之前笔记中的技术文章搬运到这个博客中，请不要见怪。
-```
+
+> 由于我以前习惯使用某云存储笔记作为技术知识存储( 简单方便 )，
+> 但后期发现云笔记这种产品不太可靠，还是自己管理更放心。
+> 所以某段时间可能会大量的把之前笔记中的技术文章搬运到这个博客中，请不要见怪。
 
 能力有限，难免写错，有错误的地方，大家可以在 Issues 里回复，我虚心接受一切正确的批评并及时更正。谢谢！
 
@@ -163,13 +162,12 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
     - #### 问题总结
 
-        - ##### 2018年
-            - [(知乎)YAML，JSON，ini，XML 用来做配置文件，优缺点分别是什么？](https://www.zhihu.com/question/41253282/answer/119857880)
-            - [编程语言/计算机中的 Timer 和 Tick 是指什么？]()
-            - 12月13日：[github修改密码后，SourceTree无法推送？如何在推送时不用每次都输入密码？](./工程开发/问题总结/2018/12-13.md)
-            - [(知乎)为什么都反对 XML 而支持使用 JSON？](https://www.zhihu.com/question/25636060)
-            - 12月14日：[收集可用的关于英语单词api](./工程开发/问题总结/2018/12-14.md)
-            - 12月16日：[NodeJS模块中的exports与module.exports的区别？](./工程开发/问题总结/2018/12-16.md)
+        - [(知乎)YAML，JSON，ini，XML 用来做配置文件，优缺点分别是什么？](https://www.zhihu.com/question/41253282/answer/119857880)
+        - [编程语言/计算机中的 Timer 和 Tick 是指什么？]()
+        - 12月13日：[github修改密码后，SourceTree无法推送？如何在推送时不用每次都输入密码？](./工程开发/问题总结/2018/12-13.md)
+        - [(知乎)为什么都反对 XML 而支持使用 JSON？](https://www.zhihu.com/question/25636060)
+        - 12月14日：[收集可用的关于英语单词api](./工程开发/问题总结/2018/12-14.md)
+        - 12月16日：[NodeJS模块中的exports与module.exports的区别？](./工程开发/问题总结/2018/12-16.md)
 
 10. ### 编程语言
 
@@ -181,8 +179,7 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
     - #### Java
 
-        - 2018 
-          [12-17：一道坑](./编程语言/Java/2018/12-17.md)
+        - [12-17：一道坑](./编程语言/Java/2018/12-17.md)
 
     - #### Go
         - [关于 Goroutine]()
@@ -191,9 +188,14 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
         - [到底有没有锁？]()
 
     - #### PHP
+
+        - [04-11：在 Homestead 中怎么配置 Redis？](./编程语言/PHP/Laravel/2018/04-11.md)
+        - [02-28：Laravel实现 用户名或邮箱等 任意一个字段均可登录](./编程语言/PHP/Laravel/2018/02-28.md)
+        - [04-05：Laravel 的表单验证 , 如何做到验证并改变 ( 转换 ) 数据 ？( 使用中间件 )](./编程语言/PHP/Laravel/2018/04-05.md)
+
         - [Composer构建项目的基本步骤]()
         - [ReactPHP 让PHP变得像NodeJS一样]()
-    	- [讲解 ReactPHP 的3大特性：事件驱动+异步执行+非阻塞 IO]()
+        - [讲解 ReactPHP 的3大特性：事件驱动+异步执行+非阻塞 IO]()
         - [yield 关键 ? 协程 ?]() 
         - [从CGI到Fast-CGI]()
         - [反射及其重要应用]()
@@ -206,20 +208,15 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
         - [使用Zephir做PHP扩展开发]()
         - [此React非彼React，React的使用心得 (Event-driven, non-blocking I/O with PHP)]()
 
-        - #### Laravel框架
-
-            - 2018年
-                - [04-11：在 Homestead 中怎么配置 Redis？](./编程语言/PHP/Laravel/2018/04-11.md)
-                - [02-28：实现 用户名或邮箱等 任意一个字段均可登录](./编程语言/PHP/Laravel/2018/02-28.md)
-                - [04-05：Laravel 的表单验证 , 如何做到验证并改变 ( 转换 ) 数据 ？( 使用中间件 )](./编程语言/PHP/Laravel/2018/04-05.md)
-
     - #### NodeJS
+        - [NodeJS是编程语言吗？]()
         - [NodeJS目录结构参考-1](https://gist.github.com/Lvsi-China/6844decae4fbc3915506298be0d4dd15)
         - [NodeJS目录结构参考-2](https://github.com/focusaurus/express_code_structure)
         - [NodeJS目录结构参考-3](https://github.com/jifeng/node-app)
 
         
     - #### JavaScript
+        - [12-17：理解webview](./编程语言/JavaScript/2018/12-17.md)
         - [深刻认识 JS 的自执行函数环境]()
         - [理解 js 闭包]()
         - [JavaScript引擎](https://segmentfault.com/a/1190000012362556#articleHeader4)
@@ -229,14 +226,13 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
         - [理解前端路由的原理]()
         - [了解 Flux 架构（单向数据流）]()
         - [关于高效操作DOM]()
+        - [强大的Canvas]()
         - [虚拟 DOM 技术]()
+        - [Hybrid混合开发]()
         - [关于 Typescript 和 CoffeeScript]()
         - [React的使用]()
         - [使用并理解 Reacte-Router]()
         - [使用并理解 Reacte-Redux]()
-
-        - 2018
-            - [12-17：理解webview](./编程语言/JavaScript/2018/12-17.md)
 
     - #### Scala
 
