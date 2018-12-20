@@ -78,37 +78,38 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 6. ### Linux
  
 7. ### 并发探究
-
+    
+    - ##### 并发基础
     - [竞争]()
     - [原子操作]()
     - [信号量]()
     - [锁机制]()
 
     - ##### 并发模型
-        - [多进程]()
-        - [多线程]()
-        - [协程]()
-        - [CSP 模型]()
-        - [Actor 模型]()
-        - [生产者消费者模型（Producer-Consumer）]()
+    - [多进程]()
+    - [多线程]()
+    - [协程]()
+    - [CSP 模型]()
+    - [Actor 模型]()
+    - [生产者消费者模型（Producer-Consumer）]()
 
 
 8. ### IO处理
 
     - #### 介绍
-        - [客户端向服务器请求数据，会按顺序经过这3个IO：网络IO -> 内存IO ->磁盘IO ]()
-        - [Redis为什么一般比Mysql速度块]()
-        - [(转)网络IO和磁盘IO效率问题？](https://www.zhihu.com/question/47589908)
-        - [IO处理中的同步和异步]()
-        - [IO处理中的阻塞和非阻塞]()
-        - [服务器常用的IO模型]() 
+    - [客户端向服务器请求数据，会按顺序经过这3个IO：网络IO -> 内存IO ->磁盘IO ]()
+    - [Redis为什么一般比Mysql速度块]()
+    - [(转)网络IO和磁盘IO效率问题？](https://www.zhihu.com/question/47589908)
+    - [IO处理中的同步和异步]()
+    - [IO处理中的阻塞和非阻塞]()
+    - [服务器常用的IO模型]() 
 
 
     - #### 网络IO
-    	- [关于 libevent 的介绍讲解]()
-        - [(转) 知乎：libevent的异步怎么理解？](https://www.zhihu.com/question/23429855)
-    	- [几种网络IO模型]()
-    	- [(转) Unix 网络 IO 模型: 同步异步, 傻傻分不清楚?](https://segmentfault.com/a/1190000007355931)
+    - [关于 libevent 的介绍讲解]()
+    - [(转) 知乎：libevent的异步怎么理解？](https://www.zhihu.com/question/23429855)
+	- [几种网络IO模型]()
+	- [(转) Unix 网络 IO 模型: 同步异步, 傻傻分不清楚?](https://segmentfault.com/a/1190000007355931)
 
     - #### 磁盘IO
 
@@ -123,51 +124,51 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
     - #### 程序设计模型
 
         - ##### 依赖处理
-            - [依赖注入（DI）]()
-            - [面向切面编程（AOP）]()
-            - [对象关系映射（ORM）]()
-            - [鸭子类型（Duck Typing）]()
-            - [控制反转 & 控制反转容器 （IOC & IOC Container）]()
+        - [依赖注入（DI）]()
+        - [面向切面编程（AOP）]()
+        - [对象关系映射（ORM）]()
+        - [鸭子类型（Duck Typing）]()
+        - [控制反转 & 控制反转容器 （IOC & IOC Container）]()
 
         - ##### 流程控制
-            - [异常捕获（Catch Exception）]()
-            - [钩子编程（Hooking）]()
-            - [管道模型（Pipeline）]()
+        - [异常捕获（Catch Exception）]()
+        - [钩子编程（Hooking）]()
+        - [管道模型（Pipeline）]()
 
         - ##### 消息通讯
-            - [同步和异步]()
-            - [异步的实现方法]()
-            - [(转)阮一峰：Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
-            - [(转)JS 异步的实现](https://segmentfault.com/a/1190000012362556)
-            - [事件驱动模型（Event-driven）]()
-            - [事件循环与异步处理]()
-            - [队列系统与异步处理]()
-            - [消息广播（Broadcasting）]()
-            - [发布/订阅]()
+        - [同步和异步]()
+        - [异步的实现方法]()
+        - [(转)阮一峰：Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
+        - [(转)JS 异步的实现](https://segmentfault.com/a/1190000012362556)
+        - [事件驱动模型（Event-driven）]()
+        - [事件循环与异步处理]()
+        - [队列系统与异步处理]()
+        - [消息广播（Broadcasting）]()
+        - [发布/订阅]()
 
     - #### 网络编程
 
 
     - #### 程序的编译安装
-        - [关于 GCC & G++ ]()
-        - [GNU平台下的编译和安装]()
+    - [关于 GCC & G++ ]()
+    - [GNU平台下的编译和安装]()
 
     - #### Web技术
-        - [谈谈 Comet 技术]()
+    - [谈谈 Comet 技术]()
 
     - #### 爬虫技术
-        - [关于爬虫的原理]() 
-        - [(转) 知乎：PHP, Python, Node.js 哪个比较适合写爬虫？]()
+    - [关于爬虫的原理]() 
+    - [(转) 知乎：PHP, Python, Node.js 哪个比较适合写爬虫？]()
 
 
     - #### 问题总结
 
-        - [(知乎)YAML，JSON，ini，XML 用来做配置文件，优缺点分别是什么？](https://www.zhihu.com/question/41253282/answer/119857880)
-        - [编程语言/计算机中的 Timer 和 Tick 是指什么？]()
-        - 12月13日：[github修改密码后，SourceTree无法推送？如何在推送时不用每次都输入密码？](./工程开发/问题总结/2018/12-13.md)
-        - [(知乎)为什么都反对 XML 而支持使用 JSON？](https://www.zhihu.com/question/25636060)
-        - 12月14日：[收集可用的关于英语单词api](./工程开发/问题总结/2018/12-14.md)
-        - 12月16日：[NodeJS模块中的exports与module.exports的区别？](./工程开发/问题总结/2018/12-16.md)
+    - [(知乎)YAML，JSON，ini，XML 用来做配置文件，优缺点分别是什么？](https://www.zhihu.com/question/41253282/answer/119857880)
+    - [编程语言/计算机中的 Timer 和 Tick 是指什么？]()
+    - 12月13日：[github修改密码后，SourceTree无法推送？如何在推送时不用每次都输入密码？](./工程开发/问题总结/2018/12-13.md)
+    - [(知乎)为什么都反对 XML 而支持使用 JSON？](https://www.zhihu.com/question/25636060)
+    - 12月14日：[收集可用的关于英语单词api](./工程开发/问题总结/2018/12-14.md)
+    - 12月16日：[NodeJS模块中的exports与module.exports的区别？](./工程开发/问题总结/2018/12-16.md)
 
 10. ### 编程语言
 
