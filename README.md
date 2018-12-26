@@ -5,7 +5,9 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 ## ♨ 介绍
 
-没错，这个仓库就是我唯一使用且永久更新的技术博客。个人觉得用github仓库更方便一些，于是就使用它作为自己的技术沉淀和不定时的总结了。
+我想尽自己的最大努力，尽力的将整个计算机专业以最清晰(至少让我满意)的结构组织起来。这样，会非常利于我以后的技术博客书写和分类。
+
+> 当然，可能有些是我暂时未触及到的知识领域，只是先占个坑而已。
 
 [博客地址](https://lvsi-china.github.io/CSTheory/)<br/>
 [博客 github 仓库地址](https://github.com/Lvsi-China/CSTheory)
@@ -29,169 +31,75 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
     请查看 [深入于心的数据结构和算法( Deep in the Heart of Data Structures And Algorithms )](https://lvsi-china.github.io/AlgorithmRise/)
 
-
 2. ### 计算机组成原理
-
-    - #### 数制系统
-
-    - #### 存储系统
-        - [虚拟存储器的基础理论](https://github.com/Lvsi-China/VirtualMemory)
-
-
-    - #### 指令系统
-        - [重点掌握指令的格式]()
-        - [理解指令的寻址和数据的寻址]()
-        - [了解 CISC 和 RISC]()
-
-    - #### 中央处理器
-        - [了解CPU的功能和结构]()
-        - [了解数据通路]()
-        - [深入理解指令执行的过程]()
-        - [理解控制器]()
-        - [流水线CPU]()
-
-    - #### 总线
-        - [总线的重要认识和理解]()
-        - [关于总线的仲裁]()
-        - [总线操作和定时]()
-        - [总线标准]()
-
-    - #### 输入/输出系统
-        - [I/O系统的重要认识和理解]()
-        - [关于I/O接口（I/O控制器）]()
-        - [I/O方式的介绍 - 程序查询、程序中断、DMA、通道]()
-
-    - #### 问题总结
-        - [编程语言/计算机中的 Timer 和 Tick 是指什么？]()
+    [前往阅读](./计算机组成原理/README.md)
 
 3. ### 编译原理
+    [前往阅读](./编译原理/README.md)
 
 4. ### 计算机网络
+    [前往阅读](./计算机网络/README.md)
 
 5. ### 数据库系统
-    - [关系型数据库系统的基础理论](https://github.com/Lvsi-China/Sherk/blob/master/docs/README.chapter3.md)
-    - [SQL的执行原理和优化原理](https://github.com/Lvsi-China/SmaugSQL)
-    - [非关系型数据库系统的基础理论](https://github.com/Lvsi-China/CSTheory/blob/master/docs/nosql.md)
-    - [数据库系统集群的基础理论和架构](https://github.com/Lvsi-China/Sherk/blob/master/docs/README.chapter3.md)
+    
+    [前往阅读](./数据库系统/README.md)
 
 6. ### 操作系统
-
-7. ### Linux
- 
-8. ### 并发探究
+    [前往阅读](./操作系统/README.md)
     
-    - ##### 并发基础
-    - [竞争]()
-    - [原子操作]()
-    - [信号量]()
-    - [锁机制]()
-
-    - ##### 并发模型
-    - [多进程]()
-    - [多线程]()
-    - [协程]()
-    - [CSP 模型]()
-    - [Actor 模型]()
-    - [生产者消费者模型（Producer-Consumer）]()
-
+7. ### Linux
+    [前往阅读](./Linux/README.md)
+    
+8. ### 并发探究
+    [前往阅读](./并发探究/README.md)
 
 9. ### IO处理
+    [前往阅读](./IO处理/README.md)
 
-    - #### 介绍
-    - [客户端向服务器请求数据，会按顺序经过这3个IO：网络IO -> 内存IO ->磁盘IO ]()
-    - [Redis为什么一般比Mysql速度块]()
-    - [(转)网络IO和磁盘IO效率问题？](https://www.zhihu.com/question/47589908)
-    - [IO处理中的同步和异步]()
-    - [IO处理中的阻塞和非阻塞]()
-    - [服务器常用的IO模型]() 
+11. ### 编程语言
+    [前往阅读](./编程语言/README.md)
 
-
-    - #### 网络IO
-    - [关于 libevent 的介绍讲解]()
-    - [(转) 知乎：libevent的异步怎么理解？](https://www.zhihu.com/question/23429855)
-	- [几种网络IO模型]()
-	- [(转) Unix 网络 IO 模型: 同步异步, 傻傻分不清楚?](https://segmentfault.com/a/1190000007355931)
-
-    - #### 磁盘IO
+12. ### 网络编程
+    [前往阅读](./网络编程/README.md)
 
 
-    - #### 内存IO
+13. ### 服务器技术
+    [前往阅读](./服务器技术/README.md)
 
+14. ### 分布式
+    [前往阅读](./分布式/README.md)
+
+15. ### 搜索引擎
+    [前往阅读](./搜索引擎/README.md)
+
+16. ### 大数据
+    [前往阅读](./大数据/README.md)
+
+17. ### 游戏开发
+    [前往阅读](./游戏开发/README.md)
 
 10. ### 工程开发
 
     - #### 设计模式
+    [前往阅读](./工程开发/设计模式/README.md)
 
-    - #### 程序设计模型
+    - #### 程序设计
+    [前往阅读](./工程开发/程序设计/README.md)
 
-        - ##### 依赖处理
-        - [依赖注入（DI）]()
-        - [面向切面编程（AOP）]()
-        - [对象关系映射（ORM）]()
-        - [鸭子类型（Duck Typing）]()
-        - [控制反转 & 控制反转容器 （IOC & IOC Container）]()
-
-        - ##### 流程控制
-        - [异常捕获（Catch Exception）]()
-        - [钩子编程（Hooking）]()
-        - [管道模型（Pipeline）]()
-
-        - ##### 消息通讯
-        - [同步和异步]()
-        - [异步的实现方法]()
-        - [(转)阮一峰：Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
-        - [(转)JS 异步的实现](https://segmentfault.com/a/1190000012362556)
-        - [事件驱动模型（Event-driven）]()
-        - [事件循环与异步处理]()
-        - [队列系统与异步处理]()
-        - [消息广播（Broadcasting）]()
-        - [发布/订阅]()
-
-    - #### 网络编程
-
-
-    - #### 程序的编译安装
-    - [关于 GCC & G++ ]()
-    - [GNU平台下的编译和安装]()
+    - #### 编译安装
+    [前往阅读](./工程开发/编译安装/README.md)
 
     - #### Web技术
-    - [谈谈 Comet 技术]()
+    [前往阅读](./工程开发/Web技术/README.md)
 
     - #### 爬虫技术
-    - [关于爬虫的原理]() 
-    - [(转) 知乎：PHP, Python, Node.js 哪个比较适合写爬虫？]()
-
+    [前往阅读](./工程开发/爬虫技术/README.md)
 
     - #### 问题总结
+    [前往阅读](./工程开发/问题总结/README.md)
 
-    - [(知乎)YAML，JSON，ini，XML 用来做配置文件，优缺点分别是什么？](https://www.zhihu.com/question/41253282/answer/119857880)
-    - [编程语言/计算机中的 Timer 和 Tick 是指什么？]()
-    - 12月13日：[github修改密码后，SourceTree无法推送？如何在推送时不用每次都输入密码？](./工程开发/问题总结/2018/12-13.md)
-    - [(知乎)为什么都反对 XML 而支持使用 JSON？](https://www.zhihu.com/question/25636060)
-    - 12月14日：[收集可用的关于英语单词api](./工程开发/问题总结/2018/12-14.md)
-    - 12月16日：[NodeJS模块中的exports与module.exports的区别？](./工程开发/问题总结/2018/12-16.md)
+18. ### 资源列表
+    [前往阅读](./资源列表/README.md)
 
-11. ### 编程语言
-
-    [查看编程语言专题](./编程语言/README.md)
-
-12. ### 服务器技术
-    - [CDN技术的原理介绍]()
-
-
-13. ### 分布式
-    - [谈到分布式，我们在想什么？]()
-    - [分布式文件存储系统的基础理论](https://github.com/Lvsi-China/SauronDFS/blob/master/docs/README.chapter2.md)
-
-
-14. ### 搜索引擎
-
-15. ### 大数据
-
-16. ### 资源列表
-
-    [查看资源列表](./资源列表/README.md)
-
-17. ### 杂感
-
-
+19. ### 杂感随记
+    [前往阅读](./杂感随记/README.md)

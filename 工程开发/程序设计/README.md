@@ -1,0 +1,22 @@
+        - ##### 依赖处理
+        - [依赖注入（DI）]()
+        - [面向切面编程（AOP）]()
+        - [对象关系映射（ORM）]()
+        - [鸭子类型（Duck Typing）]()
+        - [控制反转 & 控制反转容器 （IOC & IOC Container）]()
+
+        - ##### 流程控制
+        - [异常捕获（Catch Exception）]()
+        - [钩子编程（Hooking）]()
+        - [管道模型（Pipeline）]()
+
+        - ##### 消息通讯
+        - [同步和异步]()
+        - [异步的实现方法]()
+        - [(转)阮一峰：Javascript异步编程的4种方法](http://www.ruanyifeng.com/blog/2012/12/asynchronous%EF%BC%BFjavascript.html)
+        - [(转)JS 异步的实现](https://segmentfault.com/a/1190000012362556)
+        - [事件驱动模型（Event-driven）]()
+        - [事件循环与异步处理]()
+        - [队列系统与异步处理]()
+        - [消息广播（Broadcasting）]()
+        - [发布/订阅]()
