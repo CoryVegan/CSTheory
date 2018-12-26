@@ -13,28 +13,27 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 1. ### CS专业基础
 
-   | Column-1 | Column-2 | Column-3 | Column-4 | Column-5 | Column-6 |
-   | --- | --- | --- | --- | --- |
-   | [数据结构与算法](https://lvsi-china.github.io/AlgorithmRise/) | [计算机组成原理](./计算机组成原理/README.md) | [编译原理](./编译原理/README.md) | [计算机网络](./计算机网络/README.md) | [操作系统](./操作系统/README.md) | [数据库系统](./数据库系统/README.md) |
+    | Column-1 | Column-2 | Column-3 | Column-4 | Column-5 | Column-6 |
+    | --- | --- | --- | --- | --- | --- |
+    | [数据结构与算法](https://lvsi-china.github.io/AlgorithmRise/) | [计算机组成原理](./计算机组成原理/README.md) | [编译原理](./编译原理/README.md) | [计算机网络](./计算机网络/README.md) | [操作系统](./操作系统/README.md) | [数据库系统](./数据库系统/README.md) |
 
 2. ### CS专业进阶
 
-   | Column-1 | Column-2 | Column-3 | Column-4 | Column-5 | Column-6 |
-   | --- | --- | --- | --- | --- |
-   | [分布式](./分布式/README.md) | [搜索引擎](./搜索引擎/README.md) | [大数据](./大数据/README.md) | [计算机图形学](./计算机图形学/README.md)|  |  |
+    | Column-1 | Column-2 | Column-3 | Column-4 | Column-5 | Column-6 |
+    | --- | --- | --- | --- | --- | --- |
+    | [分布式](./分布式/README.md) | [搜索引擎](./搜索引擎/README.md) | [大数据](./大数据/README.md) | [计算机图形学](./计算机图形学/README.md)|  |  |
 
 
 3. ### 服务器编程
 
-   | Column-1 | Column-2 | Column-3 | Column-4 | Column-5 | Column-6 |
-   | --- | --- | --- | --- | --- |
-   | [IO处理](./IO处理/README.md) | [网络编程](./网络编程/README.md) | [并发探究](./并发探究/README.md) | [Linux](./Linux/README.md) | [服务器技术](./服务器技术/README.md) | [](./数据库系统/README.md) |
-   | | | | |
+    | Column-1 | Column-2 | Column-3 | Column-4 | Column-5 | Column-6 |
+    | --- | --- | --- | --- | --- | --- |
+    | [IO处理](./IO处理/README.md) | [网络编程](./网络编程/README.md) | [并发探究](./并发探究/README.md) | [Linux](./Linux/README.md) | [服务器技术](./服务器技术/README.md) | [](./数据库系统/README.md) |
 
 4. ### 工程开发
 
     | Column-1 | Column-2 | Column-3 | Column-4 | Column-5 |
-    | --- | --- | --- | --- | --- |
+    | --- | --- | --- | --- | --- | --- |
     | [编程语言](./编程语言/README.md) | [设计模式](./工程开发/设计模式/README.md) | [程序设计](./工程开发/程序设计/README.md) | [编译安装](./工程开发/编译安装/README.md) | [Web技术](./工程开发/Web技术/README.md) | [爬虫技术](./工程开发/爬虫技术/README.md) |  |
 
     - #### 问题总结
