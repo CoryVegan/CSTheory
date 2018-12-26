@@ -9,8 +9,6 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 [博客地址](https://lvsi-china.github.io/CSTheory/) / [博客 github 仓库地址](https://github.com/Lvsi-China/CSTheory)
 
-<br>
-
 ## ✍ 博客文章分类
 
 1. ### 数据结构与算法
@@ -26,13 +24,12 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 4. ### 计算机网络
     [前往阅读](./计算机网络/README.md)
 
-5. ### 数据库系统
-    
+5. ### 操作系统
+    [前往阅读](./操作系统/README.md)
+
+6. ### 数据库系统
     [前往阅读](./数据库系统/README.md)
 
-6. ### 操作系统
-    [前往阅读](./操作系统/README.md)
-    
 7. ### Linux
     [前往阅读](./Linux/README.md)
     
