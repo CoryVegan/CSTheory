@@ -35,8 +35,8 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
     | Column-1 | Column-2 | Column-3 | Column-4 | Column-5 | Column-6 |
     | --- | --- | --- | --- | --- | --- |
-    | [编程语言](./编程语言/README.md) | [设计模式](./工程开发/设计模式/README.md) | [程序设计](./工程开发/程序设计/README.md) | [编译安装](./工程开发/编译安装/README.md) | [Web技术](./工程开发/Web技术/README.md) | [爬虫技术](./工程开发/爬虫技术/README.md) |
-    | [问题总结](./工程开发/问题总结/README.md) | [游戏开发](./游戏开发/README.md) | | | | |
+    | [编程语言](./工程开发/编程语言/README.md) | [设计模式](./工程开发/设计模式/README.md) | [程序设计](./工程开发/程序设计/README.md) | [编译安装](./工程开发/编译安装/README.md) | [Web技术](./工程开发/Web技术/README.md) | [爬虫技术](./工程开发/爬虫技术/README.md) |
+    | [问题总结](./工程开发/问题总结/README.md) | [游戏开发](./工程开发/游戏开发/README.md) | [Docker](./工程开发/Docker/README.md) | [前端开发](./工程开发/前端开发/README.md) | [正则表达式](./工程开发/正则表达式/README.md) | [Git](./工程开发/Git/README.md) |
 
 5. ### Resource List
     [前往阅读](./资源列表/README.md)
