@@ -19,7 +19,7 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 2. ### CS Advanced
 
-    | Column-1 | Column-2 | Column-3 | Column-4 | Column-5 | Column-6 |
+    | 1 | 2 | 3 | 4 | 5 | 6 |
     | --- | --- | --- | --- | --- | --- |
     | [分布式](./分布式/README.md) | [搜索引擎](./搜索引擎/README.md) | [大数据](./大数据/README.md) | [计算机图形学](./计算机图形学/README.md)| [人工智能](./人工智能/README.md) | [数据挖掘](./数据挖掘/README.md) |
     | [语音识别‎](./语音识别‎/README.md) | [逆向工程](./逆向工程/README.md) | | | | |
@@ -27,13 +27,13 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 3. ### Server Programming
 
-    | Column-1 | Column-2 | Column-3 | Column-4 | Column-5 | Column-6 |
+    | 1 | 2 | 3 | 4 | 5 | 6 |
     | --- | --- | --- | --- | --- | --- |
     | [IO处理](./IO处理/README.md) | [网络编程](./网络编程/README.md) | [并发探究](./并发探究/README.md) | [Linux](./Linux/README.md) | [服务器技术](./服务器技术/README.md) | [](./数据库系统/README.md) |
 
 4. ### Project Dev
 
-    | Column-1 | Column-2 | Column-3 | Column-4 | Column-5 | Column-6 |
+    | 1 | 2 | 3 | 4 | 5 | 6 |
     | --- | --- | --- | --- | --- | --- |
     | [编程语言](./工程开发/编程语言/README.md) | [设计模式](./工程开发/设计模式/README.md) | [程序设计](./工程开发/程序设计/README.md) | [编译安装](./工程开发/编译安装/README.md) | [Web技术](./工程开发/Web技术/README.md) | [爬虫技术](./工程开发/爬虫技术/README.md) |
     | [问题总结](./工程开发/问题总结/README.md) | [游戏开发](./工程开发/游戏开发/README.md) | [Docker](./工程开发/Docker/README.md) | [前端开发](./工程开发/前端开发/README.md) | [正则表达式](./工程开发/正则表达式/README.md) | [Git](./工程开发/Git/README.md) |
