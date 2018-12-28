@@ -22,7 +22,7 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
     | Column-1 | Column-2 | Column-3 | Column-4 | Column-5 | Column-6 |
     | --- | --- | --- | --- | --- | --- |
     | [分布式](./分布式/README.md) | [搜索引擎](./搜索引擎/README.md) | [大数据](./大数据/README.md) | [计算机图形学](./计算机图形学/README.md)| [人工智能](./人工智能/README.md) | [数据挖掘](./数据挖掘/README.md) |
-    | [语音识别‎](./语音识别‎/README.md) | | | | | |
+    | [语音识别‎](./语音识别‎/README.md) | [逆向工程](./逆向工程/README.md) | | | | |
 
 
 3. ### Server Programming
@@ -43,6 +43,9 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 6. ### Essays
     [前往阅读](./杂感随记/README.md)
+
+7. ### Todo
+[HTTP/3 explained](https://legacy.gitbook.com/book/bagder/http3-explained/details)    
 
 ## ✰ 写在最后
 
