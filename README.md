@@ -13,7 +13,7 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 1. ### CS Tutorial 
 
-    | Column-1 | Column-2 | Column-3 | Column-4 | Column-5 | Column-6 |
+    | 1 | 2 | 3 | 4 | 5 | 6 |
     | --- | --- | --- | --- | --- | --- |
     | [数据结构与算法](https://lvsi-china.github.io/AlgorithmRise/) | [计算机组成原理](./计算机组成原理/README.md) | [编译原理](./编译原理/README.md) | [计算机网络](./计算机网络/README.md) | [操作系统](./操作系统/README.md) | [数据库系统](./数据库系统/README.md) |
 
