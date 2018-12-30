@@ -3,6 +3,9 @@
 - [当你学会了什么之后感觉自己的编程算是入门了?](https://www.zhihu.com/question/38992723)
 - [世界上第一款编译器是如何打造的？](https://www.zhihu.com/question/20010175)
 - [如何写一个简单的编译器？](https://www.zhihu.com/question/36756224)
-
-
-
+- [Polyfill和Vanilla JavaScript解释](https://segmentfault.com/a/1190000002593432)
+- [有哪些计算机术语的翻译，让你第一次学的时候感到十分别扭？](https://www.zhihu.com/question/24391641)
+- [计算机领域中有什么高大上的术语其实描述的是很简单的事物？](https://www.zhihu.com/question/267978646)
+- [为什么计算机领域的概念如此难以理解？](https://www.zhihu.com/question/29134020)
+- [综合来说，几大主流 C++ 编译器（ICC / GCC / Clang / VC++）究竟孰优孰劣？](https://www.zhihu.com/question/29156753)
+- [计算机领域有哪些短小精悍的轮子？(仅用于教学)？](https://www.zhihu.com/question/38737972)

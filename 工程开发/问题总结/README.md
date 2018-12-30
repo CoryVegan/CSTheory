@@ -4,3 +4,4 @@
     - [(知乎)为什么都反对 XML 而支持使用 JSON？](https://www.zhihu.com/question/25636060)
     - 12月14日：[收集可用的关于英语单词api](./工程开发/问题总结/2018/12-14.md)
     - 12月16日：[NodeJS模块中的exports与module.exports的区别？](./工程开发/问题总结/2018/12-16.md)
+    - 12月27日：[关于Laravel的Macro](./工程开发/问题总结/2018/12-16.md)
