@@ -3,43 +3,43 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 ## ♨ 介绍
 
-我想尽自己的最大努力，尽力的将整个计算机专业以最清晰(至少让我满意)的结构组织起来。这样，会非常利于我以后的技术博客书写和分类。
+我想尽自己的最大努力，尽力的将整个计算机专业以自己满意的结构组织起来。这样，会非常利于我以后博客的书写和分类。
 
 [博客地址](https://lvsi-china.github.io/CSTheory/) / [博客 github 仓库地址](https://github.com/Lvsi-China/CSTheory)
 
 > 当然，可能有些是我暂时未触及到的知识领域，只是先占个坑而已。
 
-## ✍ 分类
+## ✣ 分类
 
 1. ### CS Tutorial 
 
     | 1 | 2 | 3 | 4 | 5 | 6 |
     | --- | --- | --- | --- | --- | --- |
-    | [数据结构与算法](https://lvsi-china.github.io/AlgorithmRise/) | [计算机组成原理](./计算机组成原理/README.md) | [编译原理](./编译原理/README.md) | [计算机网络](./计算机网络/README.md) | [操作系统](./操作系统/README.md) | [数据库系统](./数据库系统/README.md) |
+    | [数据结构与算法](https://lvsi-china.github.io/AlgorithmRise/) | [计算机组成原理](./1/计算机组成原理/README.md) | [编译原理](./1/编译原理/README.md) | [计算机网络](./1/计算机网络/README.md) | [操作系统](./1/操作系统/README.md) | [数据库系统](./1/数据库系统/README.md) |
 
 2. ### CS Advanced
 
     | 1 | 2 | 3 | 4 | 5 | 6 |
     | --- | --- | --- | --- | --- | --- |
-    | [分布式](./分布式/README.md) | [搜索引擎](./搜索引擎/README.md) | [大数据](./大数据/README.md) | [计算机图形学](./计算机图形学/README.md)| [人工智能](./人工智能/README.md) | [数据挖掘](./数据挖掘/README.md) |
-    | [语音识别‎](./语音识别‎/README.md) | [逆向工程](./逆向工程/README.md) | | | | |
+    | [分布式](./2/分布式/README.md) | [搜索引擎](./2/搜索引擎/README.md) | [大数据](./2/大数据/README.md) | [计算机图形学](./2/计算机图形学/README.md)| [人工智能](./2/人工智能/README.md) | [数据挖掘](./2/数据挖掘/README.md) |
+    | [语音识别‎](./2/语音识别‎/README.md) | [逆向工程](./2/逆向工程/README.md) | | | | |
 
 
 3. ### Server Programming
 
     | 1 | 2 | 3 | 4 | 5 | 6 |
     | --- | --- | --- | --- | --- | --- |
-    | [IO处理](./IO处理/README.md) | [网络编程](./网络编程/README.md) | [并发探究](./并发探究/README.md) | [Linux](./Linux/README.md) | [服务器技术](./服务器技术/README.md) | [](./数据库系统/README.md) |
+    | [IO处理](./3/IO处理/README.md) | [网络编程](./3/网络编程/README.md) | [并发探究](./3/并发探究/README.md) | [Linux](./3/Linux/README.md) | [服务器技术](./3/服务器技术/README.md) | [](./3/数据库系统/README.md) |
 
 4. ### Project Dev
 
     | 1 | 2 | 3 | 4 | 5 | 6 |
     | --- | --- | --- | --- | --- | --- |
-    | [编程语言](./工程开发/编程语言/README.md) | [设计模式](./工程开发/设计模式/README.md) | [程序设计](./工程开发/程序设计/README.md) | [编译安装](./工程开发/编译安装/README.md) | [Web技术](./工程开发/Web技术/README.md) | [爬虫技术](./工程开发/爬虫技术/README.md) |
-    | [问题总结](./工程开发/问题总结/README.md) | [游戏开发](./工程开发/游戏开发/README.md) | [Docker](./工程开发/Docker/README.md) | [前端开发](./工程开发/前端开发/README.md) | [正则表达式](./工程开发/正则表达式/README.md) | [Git](./工程开发/Git/README.md) |
+    | [编程语言](./4/编程语言/README.md) | [设计模式](./4/设计模式/README.md) | [程序设计](./4/程序设计/README.md) | [编译安装](./4/编译安装/README.md) | [Web技术](./4/Web技术/README.md) | [爬虫技术](./4/爬虫技术/README.md) |
+    | [问题总结](./4/问题总结/README.md) | [游戏开发](./4/游戏开发/README.md) | [Docker](./4/Docker/README.md) | [前端开发](./4/前端开发/README.md) | [正则表达式](./4/正则表达式/README.md) | [Git](./4/Git/README.md) |
 
 5. ### Resource List
-    [前往阅读](./资源列表/README.md)
+    [前往阅读](./5/README.md)
 
 6. ### Essays
     [前往阅读](./杂感随记/README.md)
