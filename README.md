@@ -15,34 +15,34 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
     | 1 | 2 | 3 | 4 | 5 | 6 |
     | --- | --- | --- | --- | --- | --- |
-    | [数据结构与算法](https://lvsi-china.github.io/AlgorithmRise/) | [计算机组成原理](./1/计算机组成原理/README.md) | [编译原理](./1/编译原理/README.md) | [计算机网络](./1/计算机网络/README.md) | [操作系统](./1/操作系统/README.md) | [数据库系统](./1/数据库系统/README.md) |
+    | [数据结构与算法](https://lvsi-china.github.io/AlgorithmRise/) | [计算机组成原理](./docs/1/计算机组成原理/README.md) | [编译原理](./docs/1/编译原理/README.md) | [计算机网络](./docs/1/计算机网络/README.md) | [操作系统](./docs/1/操作系统/README.md) | [数据库系统](./docs/1/数据库系统/README.md) |
 
 2. ### CS Advanced
 
     | 1 | 2 | 3 | 4 | 5 | 6 |
     | --- | --- | --- | --- | --- | --- |
-    | [分布式](./2/分布式/README.md) | [搜索引擎](./2/搜索引擎/README.md) | [大数据](./2/大数据/README.md) | [计算机图形学](./2/计算机图形学/README.md)| [人工智能](./2/人工智能/README.md) | [数据挖掘](./2/数据挖掘/README.md) |
-    | [语音识别‎](./2/语音识别‎/README.md) | [逆向工程](./2/逆向工程/README.md) | | | | |
+    | [分布式](./docs/2/分布式/README.md) | [搜索引擎](./docs/2/搜索引擎/README.md) | [大数据](./docs/2/大数据/README.md) | [计算机图形学](./docs/2/计算机图形学/README.md)| [人工智能](./docs/2/人工智能/README.md) | [数据挖掘](./docs/2/数据挖掘/README.md) |
+    | [语音识别‎](./docs/2/语音识别‎/README.md) | [逆向工程](./docs/2/逆向工程/README.md) | | | | |
 
 
 3. ### Server Programming
 
     | 1 | 2 | 3 | 4 | 5 | 6 |
     | --- | --- | --- | --- | --- | --- |
-    | [IO处理](./3/IO处理/README.md) | [网络编程](./3/网络编程/README.md) | [并发探究](./3/并发探究/README.md) | [Linux](./3/Linux/README.md) | [服务器技术](./3/服务器技术/README.md) | [](./3/数据库系统/README.md) |
+    | [IO处理](./docs/3/IO处理/README.md) | [网络编程](./docs/3/网络编程/README.md) | [并发探究](./docs/3/并发探究/README.md) | [Linux](./docs/3/Linux/README.md) | [服务器技术](./docs/3/服务器技术/README.md) | [](./docs/3/数据库系统/README.md) |
 
 4. ### Project Dev
 
     | 1 | 2 | 3 | 4 | 5 | 6 |
     | --- | --- | --- | --- | --- | --- |
-    | [编程语言](./4/编程语言/README.md) | [设计模式](./4/设计模式/README.md) | [程序设计](./4/程序设计/README.md) | [编译安装](./4/编译安装/README.md) | [Web技术](./4/Web技术/README.md) | [爬虫技术](./4/爬虫技术/README.md) |
-    | [问题总结](./4/问题总结/README.md) | [游戏开发](./4/游戏开发/README.md) | [Docker](./4/Docker/README.md) | [前端开发](./4/前端开发/README.md) | [正则表达式](./4/正则表达式/README.md) | [Git](./4/Git/README.md) |
+    | [编程语言](./docs/4/编程语言/README.md) | [设计模式](./docs/4/设计模式/README.md) | [程序设计](./docs/4/程序设计/README.md) | [编译安装](./docs/4/编译安装/README.md) | [Web技术](./docs/4/Web技术/README.md) | [爬虫技术](./docs/4/爬虫技术/README.md) |
+    | [问题总结](./docs/4/问题总结/README.md) | [游戏开发](./docs/4/游戏开发/README.md) | [Docker](./docs/4/Docker/README.md) | [前端开发](./docs/4/前端开发/README.md) | [正则表达式](./docs/4/正则表达式/README.md) | [Git](./docs/4/Git/README.md) |
 
 5. ### Resource List
-    [前往阅读](./5/README.md)
+    [前往阅读](./docs/5/README.md)
 
 6. ### Essays
-    [前往阅读](./杂感随记/README.md)
+    [前往阅读](./docs/杂感随记/README.md)
 
 7. ### Todo
 [HTTP/3 explained](https://legacy.gitbook.com/book/bagder/http3-explained/details)    
