@@ -1,4 +1,5 @@
-- [计算机科学](https://zh.wikipedia.org/wiki/Category:%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)
+- [计算机科学分类](https://zh.wikipedia.org/wiki/Category:%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)
+- [计算机科学的主要领域](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)
 - [基本的计算机科学主题列表](https://zh.wikipedia.org/wiki/%E5%9F%BA%E6%9C%AC%E7%9A%84%E9%9B%BB%E8%85%A6%E7%A7%91%E5%AD%B8%E4%B8%BB%E9%A1%8C%E5%88%97%E8%A1%A8)
 - [当你学会了什么之后感觉自己的编程算是入门了?](https://www.zhihu.com/question/38992723)
 - [世界上第一款编译器是如何打造的？](https://www.zhihu.com/question/20010175)
@@ -9,3 +10,5 @@
 - [为什么计算机领域的概念如此难以理解？](https://www.zhihu.com/question/29134020)
 - [综合来说，几大主流 C++ 编译器（ICC / GCC / Clang / VC++）究竟孰优孰劣？](https://www.zhihu.com/question/29156753)
 - [计算机领域有哪些短小精悍的轮子？(仅用于教学)？](https://www.zhihu.com/question/38737972)
+- [Material Design 中文版](http://wiki.jikexueyuan.com/project/material-design/)
+

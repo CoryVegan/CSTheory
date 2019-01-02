@@ -39,7 +39,7 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
     | [问题总结](./docs/4/问题总结/README.md) | [游戏开发](./docs/4/游戏开发/README.md) | [Docker](./docs/4/Docker/README.md) | [前端开发](./docs/4/前端开发/README.md) | [正则表达式](./docs/4/正则表达式/README.md) | [Git](./docs/4/Git/README.md) |
 
 5. ### Resource List
-    [前往阅读](./docs/5/README.md)
+    [前往阅读](./docs/资源列表/README.md)
 
 6. ### Essays
     [前往阅读](./docs/杂感随记/README.md)
