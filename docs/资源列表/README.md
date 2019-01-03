@@ -14,6 +14,7 @@
 - [Algorithms, by Jeff Erickson (illinois.edu)](http://jeffe.cs.illinois.edu/teaching/algorithms)
 - [Angular4正式版发布了，如何正确认识？](https://www.zhihu.com/question/57632772)
 - [如何从零开始写一个 Chrome 扩展？](https://www.zhihu.com/question/20179805)
+- [学习 RxJS](https://rxjs-cn.github.io/learn-rxjs-operators/) / [github仓库](https://github.com/RxJS-CN/learn-rxjs-operators/)
 - [Flutter为何选择Dart？](https://zhuanlan.zhihu.com/p/35231610)
 - [Flutter是否会带动Dart的兴起？](https://www.zhihu.com/question/305333173)
 - [Flutter 是如何做到性能直逼 native 的?](https://www.zhihu.com/question/289992028)
