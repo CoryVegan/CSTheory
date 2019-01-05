@@ -45,4 +45,4 @@
 - [类型系统：Type System](https://en.wikipedia.org/wiki/Type_system)
 - [YAML，JSON，ini，XML 用来做配置文件，优缺点分别是什么？](https://www.zhihu.com/question/41253282/answer/119857880)
 - [为什么都反对 XML 而支持使用 JSON？](https://www.zhihu.com/question/25636060)
-
+- [实现一个简易的vue](https://segmentfault.com/a/1190000017522003)
