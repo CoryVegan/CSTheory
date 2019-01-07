@@ -79,16 +79,38 @@ a.join(''); // 输出 helloworld
 		return item+1;
 	}); // [2,3,4,5,6]
 	```
-	
-	
+
 	<img src = "./images/3.png">
 
 	- <span id="forEach">forEach()</span>
+	
+	<img src="./images/forEach.png">
 
+	```javascript
+	var array1 = ['a', 'b', 'c'];
+
+	array1.forEach(function(element) {
+	  console.log(element);
+	});
+	```
 
 
 	- <span id="every">every(), some()</span>
 
+	<img src="./images/2.png">
 
 - 查找
 	- <span id="indexOf">indexOf(), lastIndexOf()</span>
+
+	```javascript
+	var arr = [1,2,3,4,5];
+
+	// 输出1
+	arr.indexOf(2);
+	arr.lastIndexOf(2);
+
+	// 输出4
+	arr.indexOf(5);
+	arr.lastIndexOf(5);
+	```
+
