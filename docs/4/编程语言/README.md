@@ -60,6 +60,7 @@
 
 #### <span id="JavaScript">JavaScript</span>
 - 03-21：[理解 Object.defineProperty()](./JavaScript/2018/03-21.md)
+- 03-22：[JavaScript 重要的高级函数](./JavaScript/2018/03-22)
 - 12-17：[理解webview](./JavaScript/2018/12-17.md)
 - [深刻认识 JS 的自执行函数环境]()
 - [理解 js 闭包]()

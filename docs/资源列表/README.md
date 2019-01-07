@@ -1,3 +1,5 @@
+- [网络安全](https://zh.wikipedia.org/wiki/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8)
+- [内存管理/存储器管理](https://zh.wikipedia.org/wiki/%E8%A8%98%E6%86%B6%E9%AB%94%E7%AE%A1%E7%90%86)
 - [计算机科学分类](https://zh.wikipedia.org/wiki/Category:%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)
 - [计算机科学的主要领域](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)
 - [基本的计算机科学主题列表](https://zh.wikipedia.org/wiki/%E5%9F%BA%E6%9C%AC%E7%9A%84%E9%9B%BB%E8%85%A6%E7%A7%91%E5%AD%B8%E4%B8%BB%E9%A1%8C%E5%88%97%E8%A1%A8)
@@ -48,6 +50,20 @@
 - [实现一个简易的vue](https://segmentfault.com/a/1190000017522003)
 - [JavaScript引擎](https://segmentfault.com/a/1190000012362556#articleHeader4)
 - [TDD（测试驱动开发）是否已死？](https://www.zhihu.com/question/37623307)
+- [怎么理解coroutine？](https://www.zhihu.com/question/21483863)
+- [SVG 与 HTML5 的 canvas 各有什么优点，哪个更有前途？](https://www.zhihu.com/question/19690014)
+- [SVG 教程](http://www.runoob.com/svg/)
+- [未来是 HTML 5 还是 Flash 的时代？](https://www.zhihu.com/question/19728465)
+- [如何优雅的用Flash开发Html5交互项目？](https://zhuanlan.zhihu.com/p/22875332)
+- [flash网站采用了什么技术？和前端有什么关系？](https://segmentfault.com/q/1010000005960221)
+- [vue-router的保留滚动距离无效？](https://segmentfault.com/q/1010000015270425)
+- [CSRF Token 的设计是否有其必要性？](https://segmentfault.com/q/1010000000713614)
+- [CSRF 攻击的应对之道](https://www.ibm.com/developerworks/cn/web/1102_niugang_csrf/index.html)
+- [理解CSRF(跨站请求伪造)](https://github.com/pillarjs/understanding-csrf/blob/master/README_zh.md)
+- [理解XSS和CSRF原理](https://xwjgo.github.io/2017/10/26/XSS%E5%92%8CCSRF/)
+- [刷题笔记6（浅谈单调栈）](https://zhuanlan.zhihu.com/p/26465701)
+- [求一个数组中右边第一个比他大的数（单调栈）](https://blog.csdn.net/bxw1992/article/details/77856304)
+- [找出两个链表的第一个公共结点](https://blog.csdn.net/wcyoot/article/details/6426436)
 
 
 
