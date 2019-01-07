@@ -12,6 +12,7 @@
 	- [sort()](#sort)
 
 - 循环函数
+	- [values](#values)
 	- [reduce(), map()](#reduce)
 	- [forEach()](#forEach)
 	- [every(), some()](#every)
@@ -70,6 +71,18 @@ a.join(''); // 输出 helloworld
 		```
 
 - 循环函数
+
+	- <span id="values">values()</span>
+	```javascript
+	var arr = [1,2,3,4,5];
+	var arrIterator = arr.values();
+
+	for (const value of arrIterator) {
+
+	  console.log(value);
+	}
+	```
+
 	- <span id="reduce">reduce(), map()</span>
 	
 	```javascript
