@@ -29,7 +29,7 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
     | 1 | 2 | 3 | 4 | 5 | 6 |
     | --- | --- | --- | --- | --- | --- |
-    | [IO处理](./docs/3/IO处理/README.md) | [网络编程](./docs/3/网络编程/README.md) | [并发探究](./docs/3/并发探究/README.md) | [Linux](./docs/3/Linux/README.md) | [服务器技术](./docs/3/服务器技术/README.md) | [](./docs/3/数据库系统/README.md) |
+    | [IO处理](./docs/3/IO处理/README.md) | [网络编程](./docs/3/网络编程/README.md) | [并发探究](./docs/3/并发探究/README.md) | [Linux](./docs/3/Linux/README.md) | [服务器技术](./docs/3/服务器技术/README.md) | [Nginx](./docs/3/Nginx/README.md) |
 
 4. ### Project Dev
 
