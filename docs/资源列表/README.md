@@ -65,7 +65,7 @@
 - [求一个数组中右边第一个比他大的数（单调栈）](https://blog.csdn.net/bxw1992/article/details/77856304)
 - [找出两个链表的第一个公共结点](https://blog.csdn.net/wcyoot/article/details/6426436)
 - [培训出来的程序员一无是处吗？](https://www.zhihu.com/question/38911995)
-
+- [计算机科班出身的优势是什么？](https://www.zhihu.com/question/57746751)
 
 
 
