@@ -68,6 +68,6 @@
 - [计算机科班出身的优势是什么？](https://www.zhihu.com/question/57746751)
 - [做一名糟糕的程序员是怎样的体验？](https://www.zhihu.com/question/26991985/answer/34814874)
 - [Basic Concepts in ML(Machine Learning)](https://leetcode.com/explore/learn/card/machine-learning-101/)
-
+- [HTTP/3 explained](https://legacy.gitbook.com/book/bagder/http3-explained/details)
 
 

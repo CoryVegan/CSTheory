@@ -3,12 +3,8 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 #### 介绍
 
-我想尽自己的最大努力，尽力的将整个计算机专业以自己满意的结构组织起来。这样，会非常利于我以后博客的书写和分类。
-
-[博客地址](https://lvsi-china.github.io/CSTheory/)
+我想尽自己的最大努力，尽力的将整个计算机专业以自己满意的结构组织起来。这样，会非常利于我以后博客的书写和分类。[博客地址](https://lvsi-china.github.io/CSTheory/)
 <!-- / [博客 github 仓库地址](https://github.com/Lvsi-China/CSTheory) -->
-
-> 当然，可能有些是我暂时未触及到的知识领域，只是先占个坑而已。
 
 #### 分类
 
@@ -43,9 +39,6 @@ Lvsi's Blog：计算机科学理论（Lvsi's Blog：The Theories of Computer Sci
 
 6. ##### Essays
     [前往阅读](./docs/杂感随记/README.md)
-
-7. ##### Todo
-[HTTP/3 explained](https://legacy.gitbook.com/book/bagder/http3-explained/details)    
 
 #### 最后
 
