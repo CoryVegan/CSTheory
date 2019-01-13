@@ -66,6 +66,8 @@
 - [找出两个链表的第一个公共结点](https://blog.csdn.net/wcyoot/article/details/6426436)
 - [培训出来的程序员一无是处吗？](https://www.zhihu.com/question/38911995)
 - [计算机科班出身的优势是什么？](https://www.zhihu.com/question/57746751)
+- [做一名糟糕的程序员是怎样的体验？](https://www.zhihu.com/question/26991985/answer/34814874)
+- [Basic Concepts in ML(Machine Learning)](https://leetcode.com/explore/learn/card/machine-learning-101/)
 
 
 
