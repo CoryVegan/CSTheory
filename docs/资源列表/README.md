@@ -70,4 +70,5 @@
 - [Basic Concepts in ML(Machine Learning)](https://leetcode.com/explore/learn/card/machine-learning-101/)
 - [HTTP/3 explained](https://legacy.gitbook.com/book/bagder/http3-explained/details)
 
-
+- [如何理解持续集成、持续交付、持续部署？](https://www.zhihu.com/question/23444990)
+- [阮一峰 - 持续集成是什么？](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html)
