@@ -82,8 +82,19 @@
 - [写程序怎么做到Python2与Python3兼容？](https://www.zhihu.com/question/50979825)
 - [github : IPFS ( A peer-to-peer hypermedia protocol )](https://github.com/ipfs)
 
-- [什么是IPFS?]()
+- [阮一峰 - 全文搜索引擎 Elasticsearch 入门教程](http://www.ruanyifeng.com/blog/2017/08/elasticsearch.html)
+
+- [什么是IPFS?](https://zhuanlan.zhihu.com/p/32615963)
+- [Lucene：基于Java的全文检索引擎简介])(https://www.chedong.com/tech/lucene.html)
 
 
+- [Elasticsearch-PHP 中文文档](https://laravel-china.org/docs/elasticsearch-php/6.0)
 
+- [在Laravel5.5中使用搜索 Elasticsearch](https://juejin.im/post/5a3730ff6fb9a045076fc2b1)
+
+- [Elasticsearch-PHP](https://www.elastic.co/guide/cn/elasticsearch/php/current/index.html)
+
+- [Elasticsearch: 权威指南](https://www.elastic.co/guide/cn/elasticsearch/guide/current/index.html)
+
+- [官方 Elasticsearch 文档](https://www.elastic.co/guide/cn/index.html?baymax=rtp&elektra=home&storm=sub1)
 
