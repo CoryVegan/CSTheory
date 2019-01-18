@@ -72,3 +72,18 @@
 
 - [如何理解持续集成、持续交付、持续部署？](https://www.zhihu.com/question/23444990)
 - [阮一峰 - 持续集成是什么？](http://www.ruanyifeng.com/blog/2015/09/continuous-integration.html)
+- [Python 2 和 Python 3 有哪些主要区别？](https://www.zhihu.com/question/19698598)
+
+- [实战 Lucene](https://www.ibm.com/developerworks/cn/java/j-lo-lucene1/index.html)
+- [The Apache Jakarta Project](http://jakarta.apache.org/site/whoweare.html)
+
+<!-- Apache Jakarta 是一个组织 -->
+
+- [写程序怎么做到Python2与Python3兼容？](https://www.zhihu.com/question/50979825)
+- [github : IPFS ( A peer-to-peer hypermedia protocol )](https://github.com/ipfs)
+
+- [什么是IPFS?]()
+
+
+
+
