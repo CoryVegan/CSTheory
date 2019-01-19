@@ -98,3 +98,52 @@
 
 - [官方 Elasticsearch 文档](https://www.elastic.co/guide/cn/index.html?baymax=rtp&elektra=home&storm=sub1)
 
+- [视频：Elasticsearch顶尖高手系列-快速入门篇](https://www.bilibili.com/video/av29521652/?p=2)
+
+- [可以参考使用Elasticsearch的项目 yanthink/blog-api](https://github.com/yanthink/blog-api)
+
+
+- [阮一峰 - 数据库表连接的简单解释](http://www.ruanyifeng.com/blog/2019/01/table-join.html)
+
+- [Say NO to Venn Diagrams When Explaining JOINs](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
+
+
+
+- [SEO中“收录”一词的准确英文翻译是什么？](https://www.zhihu.com/question/20385800)
+
+- [推荐：如何学习Python爬虫[入门篇]？](https://zhuanlan.zhihu.com/p/21479334)
+
+- [知乎：如何入门 Python 爬虫？](https://www.zhihu.com/question/20899988/answer/24923424)
+
+
+
+- [[译] 30 分钟 Python 爬虫教程](https://juejin.im/post/5afab181f265da0b7452514a)
+
+
+- [[译] 深度专注的工作 —— 成为 10 倍效率的开发者的秘密武器](https://juejin.im/post/5bffb3f5f265da613a53bd4b)
+
+- [Python2爬虫学习系列教程](https://cuiqingcai.com/1052.html)
+
+- [Python 3 教程](http://www.runoob.com/python3/python3-tutorial.html)
+
+- [Python 爬虫介绍](http://www.runoob.com/w3cnote/python-spider-intro.html)
+
+
+- [CodeIgniter 4 宣布开发路线图](https://www.oschina.net/news/71851/codeigniter-4-proposed-roadmap)
+
+
+- [php自定义配置$_SERVER常量](https://nsimple.top/archives/config-php-server-var.html)
+
+
+
+- [Apache/Nginx为PHP设置、添加$_SERVER服务器环境变量](https://segmentfault.com/a/1190000004634251)
+
+
+- [大数据还能火多久？](https://www.zhihu.com/question/61683506)
+
+- [大数据华而不实么？大数据的本质是什么？](https://www.zhihu.com/question/23057288)
+
+- [如何进入大数据领域，学习路线是什么？](https://www.zhihu.com/question/35942305)
+
+
+
