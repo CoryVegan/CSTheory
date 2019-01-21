@@ -145,5 +145,10 @@
 
 - [如何进入大数据领域，学习路线是什么？](https://www.zhihu.com/question/35942305)
 
+- [争论: 看了一个 go 语言，感觉语法略为不习惯](https://www.v2ex.com/t/253629?p=2)
+
+- [博客: 代码之谜](https://justjavac.iteye.com/category/249538)
+
+
 
 
