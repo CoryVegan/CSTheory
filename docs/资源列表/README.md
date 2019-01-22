@@ -149,6 +149,8 @@
 
 - [博客: 代码之谜](https://justjavac.iteye.com/category/249538)
 
+- [知乎 : if __name__ == '__main__' 如何正确理解?](https://www.zhihu.com/question/49136398)
+
 ## Github资源
 
 - [Google 开源项目风格指南(中文版)](https://github.com/zh-google-styleguide/zh-google-styleguide)
