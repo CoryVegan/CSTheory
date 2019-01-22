@@ -149,6 +149,8 @@
 
 - [博客: 代码之谜](https://justjavac.iteye.com/category/249538)
 
-- [Google 开源项目风格指南(中文版)](https://github.com/zh-google-styleguide/zh-google-styleguide)
+## Github资源
 
+- [Google 开源项目风格指南(中文版)](https://github.com/zh-google-styleguide/zh-google-styleguide)
+- [js-the-right-way : An easy-to-read, quick reference for JS best practices, accepted coding standards, and links around the Web](https://github.com/braziljs/js-the-right-way)
 
