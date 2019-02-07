@@ -134,7 +134,7 @@
 
 - [php自定义配置$_SERVER常量](https://nsimple.top/archives/config-php-server-var.html)
 
-
+- [What does the '#' symbol mean in a UML class diagram?](https://stackoverflow.com/questions/418308/what-does-the-symbol-mean-in-a-uml-class-diagram)
 
 - [Apache/Nginx为PHP设置、添加$_SERVER服务器环境变量](https://segmentfault.com/a/1190000004634251)
 
