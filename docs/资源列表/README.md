@@ -138,6 +138,7 @@
 
 - [Apache/Nginx为PHP设置、添加$_SERVER服务器环境变量](https://segmentfault.com/a/1190000004634251)
 
+- [现在市场上，C++ 主要用来做什么？](https://www.zhihu.com/question/304959838)
 
 - [大数据还能火多久？](https://www.zhihu.com/question/61683506)
 
@@ -147,7 +148,11 @@
 
 - [争论: 看了一个 go 语言，感觉语法略为不习惯](https://www.v2ex.com/t/253629?p=2)
 
+- [计算机基础知识对程序员来说有多重要？](https://www.zhihu.com/question/300650155)
+
 - [博客: 代码之谜](https://justjavac.iteye.com/category/249538)
+
+- [红色石头 - 机器学习教程网站](http://redstonewill.com/)
 
 - [知乎 : if __name__ == '__main__' 如何正确理解?](https://www.zhihu.com/question/49136398)
 
