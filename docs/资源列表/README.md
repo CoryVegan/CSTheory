@@ -156,6 +156,11 @@
 
 - [知乎 : if __name__ == '__main__' 如何正确理解?](https://www.zhihu.com/question/49136398)
 
+- [git的reset和checkout的区别](https://segmentfault.com/a/1190000006185954)
+
+- [阮一峰：常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
+
+
 ## Github资源
 
 - [Google 开源项目风格指南(中文版)](https://github.com/zh-google-styleguide/zh-google-styleguide)
