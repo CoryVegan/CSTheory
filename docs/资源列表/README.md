@@ -3,6 +3,12 @@
 - [计算机科学分类](https://zh.wikipedia.org/wiki/Category:%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)
 - [计算机科学的主要领域](https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%A7%91%E5%AD%A6)
 - [基本的计算机科学主题列表](https://zh.wikipedia.org/wiki/%E5%9F%BA%E6%9C%AC%E7%9A%84%E9%9B%BB%E8%85%A6%E7%A7%91%E5%AD%B8%E4%B8%BB%E9%A1%8C%E5%88%97%E8%A1%A8)
+
+
+- [List of C-family programming languages](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages)
+- [類C(C-like)程式語言簡述](http://single9.net/2011/06/programming-language-c-like/)
+
+
 - [Faces of Open Source](http://facesofopensource.com/)
 - [当你学会了什么之后感觉自己的编程算是入门了?](https://www.zhihu.com/question/38992723)
 - [世界上第一款编译器是如何打造的？](https://www.zhihu.com/question/20010175)
