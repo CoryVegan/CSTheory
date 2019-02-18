@@ -166,6 +166,23 @@
 
 - [阮一峰：常用 Git 命令清单](http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html)
 
+- [gitlab或github下fork后如何同步源的新更新内容？](https://www.zhihu.com/question/28676261)
+
+- [Node.js 真的有协程吗？](https://www.zhihu.com/question/305443189/answer/551716136)
+
+- [在Golang的HTTP请求中共享数据](http://blogs.vicsdf.com/article/11727)
+
+- [学习Golang的HTTP中间件机制](http://blogs.vicsdf.com/article/11724)
+
+- [tutorialspoint : 国外最好的类似w3school的网站](https://www.tutorialspoint.com/)
+
+- [图形编程入门](https://docs.microsoft.com/zh-cn/dotnet/framework/winforms/advanced/getting-started-with-graphics-programming)
+
+- [使用 PHP 来做 Vue.js 的 SSR 服务端渲染](https://segmentfault.com/a/1190000014155027)
+
+- [什么是前端渲染？什么是服务端渲染？两者区别及应用场景？](https://segmentfault.com/q/1010000009359167)
+
+
 
 ## Github资源
 
